@@ -705,12 +705,6 @@
             "loss": "7"
         },
         {
-            "source": "LouisianaTech",
-            "target": "MississippiValleyState",
-            "win": "63",
-            "loss": "10"
-        },
-        {
             "source": "TexasTech",
             "target": "NewMexico",
             "win": "24",
@@ -721,12 +715,6 @@
             "target": "PennState",
             "win": "29",
             "loss": "5"
-        },
-        {
-            "source": "AppalachianState",
-            "target": "WakeForest",
-            "win": "20",
-            "loss": "16"
         },
         {
             "source": "ArizonaState",
@@ -747,18 +735,6 @@
             "loss": "7"
         },
         {
-            "source": "Marshall",
-            "target": "SoutheastMissouriState",
-            "win": "63",
-            "loss": "7"
-        },
-        {
-            "source": "Miami(FL)",
-            "target": "McNeeseState",
-            "win": "61",
-            "loss": "14"
-        },
-        {
             "source": "Northwestern",
             "target": "NorthernIllinois",
             "win": "35",
@@ -771,22 +747,10 @@
             "loss": "7"
         },
         {
-            "source": "AirForce",
-            "target": "CalStateNorthridge",
-            "win": "55",
-            "loss": "6"
-        },
-        {
             "source": "Arizona",
             "target": "Utah",
             "win": "17",
             "loss": "3"
-        },
-        {
-            "source": "Arkansas",
-            "target": "MissouriState",
-            "win": "38",
-            "loss": "0"
         },
         {
             "source": "BoiseState",
@@ -799,12 +763,6 @@
             "target": "Virginia",
             "win": "38",
             "loss": "35"
-        },
-        {
-            "source": "Clemson",
-            "target": "Citadel",
-            "win": "38",
-            "loss": "0"
         },
         {
             "source": "ColoradoState",
@@ -831,12 +789,6 @@
             "loss": "19"
         },
         {
-            "source": "Georgia",
-            "target": "GeorgiaSouthern",
-            "win": "29",
-            "loss": "7"
-        },
-        {
             "source": "GeorgiaTech",
             "target": "CentralFlorida",
             "win": "21",
@@ -861,12 +813,6 @@
             "loss": "10"
         },
         {
-            "source": "LouisianaState",
-            "target": "WesternCarolina",
-            "win": "58",
-            "loss": "0"
-        },
-        {
             "source": "Louisville",
             "target": "Kentucky",
             "win": "40",
@@ -880,13 +826,13 @@
         },
         {
             "source": "Michigan",
-            "target": "BowlingGreen",
+            "target": "BowlingGreenState",
             "win": "42",
             "loss": "7"
         },
         {
             "source": "Minnesota",
-            "target": "Louisiana-Monroe",
+            "target": "LouisianaMonroe",
             "win": "47",
             "loss": "10"
         },
@@ -901,12 +847,6 @@
             "target": "Memphis",
             "win": "17",
             "loss": "3"
-        },
-        {
-            "source": "Missouri",
-            "target": "WesternIllinois",
-            "win": "50",
-            "loss": "20"
         },
         {
             "source": "Nebraska",
@@ -940,7 +880,7 @@
         },
         {
             "source": "Oklahoma",
-            "target": "Texas-ElPaso",
+            "target": "TexasElPaso",
             "win": "55",
             "loss": "14"
         },
@@ -949,12 +889,6 @@
             "target": "Nevada",
             "win": "36",
             "loss": "7"
-        },
-        {
-            "source": "OregonState",
-            "target": "EasternWashington",
-            "win": "21",
-            "loss": "19"
         },
         {
             "source": "Pittsburgh",
@@ -975,27 +909,9 @@
             "loss": "27"
         },
         {
-            "source": "Rutgers",
-            "target": "Villanova",
-            "win": "34",
-            "loss": "21"
-        },
-        {
-            "source": "SamHouston",
-            "target": "Louisiana",
-            "win": "21",
-            "loss": "14"
-        },
-        {
             "source": "SouthCarolina",
             "target": "NewMexicoState",
             "win": "31",
-            "loss": "0"
-        },
-        {
-            "source": "SouthFlorida",
-            "target": "JacksonvilleState",
-            "win": "40",
             "loss": "0"
         },
         {
@@ -1071,12 +987,6 @@
             "loss": "17"
         },
         {
-            "source": "Alabama-Birmingham",
-            "target": "Chattanooga",
-            "win": "20",
-            "loss": "15"
-        },
-        {
             "source": "VirginiaTech",
             "target": "EastCarolina",
             "win": "45",
@@ -1101,12 +1011,6 @@
             "loss": "27"
         },
         {
-            "source": "BoiseState",
-            "target": "NorthernIowa",
-            "win": "42",
-            "loss": "17"
-        },
-        {
             "source": "BostonCollege",
             "target": "Army",
             "win": "55",
@@ -1117,12 +1021,6 @@
             "target": "Utah",
             "win": "24",
             "loss": "21"
-        },
-        {
-            "source": "CentralFlorida",
-            "target": "NorthwesternState",
-            "win": "19",
-            "loss": "7"
         },
         {
             "source": "CentralMichigan",
@@ -1141,18 +1039,6 @@
             "target": "Missouri",
             "win": "62",
             "loss": "9"
-        },
-        {
-            "source": "ColoradoState",
-            "target": "EastTennesseeState",
-            "win": "41",
-            "loss": "7"
-        },
-        {
-            "source": "Connecticut",
-            "target": "Colgate",
-            "win": "37",
-            "loss": "7"
         },
         {
             "source": "Florida",
@@ -1174,27 +1060,15 @@
         },
         {
             "source": "IowaState",
-            "target": "Nevada-LasVegas",
+            "target": "NevadaLasVegas",
             "win": "37",
             "loss": "22"
-        },
-        {
-            "source": "Kentucky",
-            "target": "SouthFlorida",
-            "win": "27",
-            "loss": "9"
         },
         {
             "source": "LouisianaState",
             "target": "Houston",
             "win": "28",
             "loss": "13"
-        },
-        {
-            "source": "Louisville",
-            "target": "GramblingState",
-            "win": "52",
-            "loss": "0"
         },
         {
             "source": "Maryland",
@@ -1204,7 +1078,7 @@
         },
         {
             "source": "Memphis",
-            "target": "Louisiana-Monroe",
+            "target": "LouisianaMonroe",
             "win": "28",
             "loss": "0"
         },
@@ -1227,12 +1101,6 @@
             "loss": "24"
         },
         {
-            "source": "Montana",
-            "target": "Idaho",
-            "win": "45",
-            "loss": "38"
-        },
-        {
             "source": "Nebraska",
             "target": "NotreDame",
             "win": "27",
@@ -1249,12 +1117,6 @@
             "target": "Indiana",
             "win": "41",
             "loss": "38"
-        },
-        {
-            "source": "NorthernIllinois",
-            "target": "IllinoisState",
-            "win": "52",
-            "loss": "0"
         },
         {
             "source": "Northwestern",
@@ -1300,15 +1162,9 @@
         },
         {
             "source": "Pittsburgh",
-            "target": "BowlingGreen",
+            "target": "BowlingGreenState",
             "win": "34",
             "loss": "16"
-        },
-        {
-            "source": "PortlandState",
-            "target": "Hawaii",
-            "win": "45",
-            "loss": "20"
         },
         {
             "source": "Purdue",
@@ -1342,7 +1198,7 @@
         },
         {
             "source": "Texas",
-            "target": "Louisiana",
+            "target": "LouisianaLafayette",
             "win": "52",
             "loss": "10"
         },
@@ -1365,16 +1221,10 @@
             "loss": "7"
         },
         {
-            "source": "Texas-ElPaso",
+            "source": "TexasElPaso",
             "target": "SouthernMethodist",
             "win": "37",
             "loss": "20"
-        },
-        {
-            "source": "Toledo",
-            "target": "WeberState",
-            "win": "51",
-            "loss": "0"
         },
         {
             "source": "UCLA",
@@ -1383,28 +1233,10 @@
             "loss": "21"
         },
         {
-            "source": "UtahState",
-            "target": "SouthernUtah",
-            "win": "30",
-            "loss": "14"
-        },
-        {
-            "source": "Virginia",
-            "target": "Richmond",
-            "win": "34",
-            "loss": "6"
-        },
-        {
             "source": "Washington",
-            "target": "Miami(FL)",
+            "target": "MiamiFlorida",
             "win": "34",
             "loss": "29"
-        },
-        {
-            "source": "WesternIllinois",
-            "target": "BallState",
-            "win": "24",
-            "loss": "14"
         },
         {
             "source": "WesternMichigan",
@@ -1510,7 +1342,7 @@
         },
         {
             "source": "Kansas",
-            "target": "Alabama-Birmingham",
+            "target": "AlabamaBirmingham",
             "win": "23",
             "loss": "20"
         },
@@ -1527,12 +1359,6 @@
             "loss": "34"
         },
         {
-            "source": "Louisiana-Monroe",
-            "target": "NichollsState",
-            "win": "27",
-            "loss": "21"
-        },
-        {
             "source": "Memphis",
             "target": "ArkansasState",
             "win": "19",
@@ -1543,12 +1369,6 @@
             "target": "Missouri",
             "win": "13",
             "loss": "10"
-        },
-        {
-            "source": "MiddleTennesseeState",
-            "target": "MurrayState",
-            "win": "44",
-            "loss": "28"
         },
         {
             "source": "Minnesota",
@@ -1563,7 +1383,7 @@
             "loss": "7"
         },
         {
-            "source": "Nevada-LasVegas",
+            "source": "NevadaLasVegas",
             "target": "NorthTexas",
             "win": "38",
             "loss": "0"
@@ -1587,22 +1407,10 @@
             "loss": "21"
         },
         {
-            "source": "Ohio",
-            "target": "TennesseeTech",
-            "win": "52",
-            "loss": "14"
-        },
-        {
             "source": "OhioState",
             "target": "MiamiOhio",
             "win": "27",
             "loss": "16"
-        },
-        {
-            "source": "OklahomaState",
-            "target": "TexasState",
-            "win": "23",
-            "loss": "0"
         },
         {
             "source": "Oregon",
@@ -1617,22 +1425,10 @@
             "loss": "0"
         },
         {
-            "source": "SanJoseState",
-            "target": "SouthernUtah",
-            "win": "47",
-            "loss": "7"
-        },
-        {
             "source": "SouthCarolina",
             "target": "EasternMichigan",
             "win": "41",
             "loss": "6"
-        },
-        {
-            "source": "SouthFlorida",
-            "target": "JamesMadison",
-            "win": "26",
-            "loss": "7"
         },
         {
             "source": "SouthernMississippi",
@@ -1647,20 +1443,14 @@
             "loss": "24"
         },
         {
-            "source": "StephenF.Austin",
-            "target": "LouisianaTech",
-            "win": "34",
-            "loss": "31"
-        },
-        {
             "source": "Temple",
-            "target": "BowlingGreen",
+            "target": "BowlingGreenState",
             "win": "31",
             "loss": "14"
         },
         {
             "source": "TexasA&M",
-            "target": "Texas-ElPaso",
+            "target": "TexasElPaso",
             "win": "45",
             "loss": "17"
         },
@@ -1672,15 +1462,9 @@
         },
         {
             "source": "TexasTech",
-            "target": "Louisiana",
+            "target": "LouisianaLafayette",
             "win": "26",
             "loss": "0"
-        },
-        {
-            "source": "Toledo",
-            "target": "EasternIllinois",
-            "win": "31",
-            "loss": "26"
         },
         {
             "source": "Tulsa",
@@ -1725,12 +1509,6 @@
             "loss": "17"
         },
         {
-            "source": "WesternMichigan",
-            "target": "IndianaState",
-            "win": "56",
-            "loss": "0"
-        },
-        {
             "source": "Wisconsin",
             "target": "Cincinnati",
             "win": "28",
@@ -1741,12 +1519,6 @@
             "target": "CentralMichigan",
             "win": "31",
             "loss": "10"
-        },
-        {
-            "source": "YoungstownState",
-            "target": "Kent",
-            "win": "26",
-            "loss": "20"
         },
         {
             "source": "NorthCarolinaState",
@@ -1767,7 +1539,7 @@
             "loss": "20"
         },
         {
-            "source": "Alabama-Birmingham",
+            "source": "AlabamaBirmingham",
             "target": "LouisianaState",
             "win": "13",
             "loss": "10"
@@ -1791,12 +1563,6 @@
             "loss": "14"
         },
         {
-            "source": "Baylor",
-            "target": "SouthFlorida",
-            "win": "28",
-            "loss": "13"
-        },
-        {
             "source": "BoiseState",
             "target": "CentralMichigan",
             "win": "47",
@@ -1810,21 +1576,15 @@
         },
         {
             "source": "BrighamYoung",
-            "target": "Nevada-LasVegas",
+            "target": "NevadaLasVegas",
             "win": "10",
             "loss": "7"
         },
         {
             "source": "Buffalo",
-            "target": "BowlingGreen",
+            "target": "BowlingGreenState",
             "win": "20",
             "loss": "17"
-        },
-        {
-            "source": "CentralFlorida",
-            "target": "William&Mary",
-            "win": "52",
-            "loss": "7"
         },
         {
             "source": "Clemson",
@@ -1875,12 +1635,6 @@
             "loss": "6"
         },
         {
-            "source": "Kansas",
-            "target": "SouthernIllinois",
-            "win": "42",
-            "loss": "0"
-        },
-        {
             "source": "KansasState",
             "target": "NorthTexas",
             "win": "55",
@@ -1899,7 +1653,7 @@
             "loss": "16"
         },
         {
-            "source": "Miami(FL)",
+            "source": "MiamiFlorida",
             "target": "WestVirginia",
             "win": "47",
             "loss": "10"
@@ -1935,34 +1689,16 @@
             "loss": "28"
         },
         {
-            "source": "NewMexico",
-            "target": "NorthernArizona",
-            "win": "35",
-            "loss": "28"
-        },
-        {
             "source": "NorthCarolina",
             "target": "Marshall",
             "win": "20",
             "loss": "15"
         },
         {
-            "source": "Northeastern",
-            "target": "Connecticut",
-            "win": "35",
-            "loss": "27"
-        },
-        {
             "source": "Northwestern",
             "target": "Wisconsin",
             "win": "47",
             "loss": "44"
-        },
-        {
-            "source": "NorthwesternState",
-            "target": "Louisiana",
-            "win": "23",
-            "loss": "21"
         },
         {
             "source": "OhioState",
@@ -2026,7 +1762,7 @@
         },
         {
             "source": "Tennessee",
-            "target": "Louisiana-Monroe",
+            "target": "LouisianaMonroe",
             "win": "70",
             "loss": "3"
         },
@@ -2043,7 +1779,7 @@
             "loss": "3"
         },
         {
-            "source": "Texas-ElPaso",
+            "source": "TexasElPaso",
             "target": "Hawaii",
             "win": "39",
             "loss": "7"
@@ -2097,8 +1833,8 @@
             "loss": "17"
         },
         {
-            "source": "Alabama-Birmingham",
-            "target": "Louisiana",
+            "source": "AlabamaBirmingham",
+            "target": "LouisianaLafayette",
             "win": "47",
             "loss": "2"
         },
@@ -2115,7 +1851,7 @@
             "loss": "0"
         },
         {
-            "source": "BowlingGreen",
+            "source": "BowlingGreenState",
             "target": "Kent",
             "win": "18",
             "loss": "11"
@@ -2157,12 +1893,6 @@
             "loss": "15"
         },
         {
-            "source": "Idaho",
-            "target": "MontanaState",
-            "win": "56",
-            "loss": "7"
-        },
-        {
             "source": "Indiana",
             "target": "Iowa",
             "win": "45",
@@ -2199,7 +1929,7 @@
             "loss": "14"
         },
         {
-            "source": "Miami(FL)",
+            "source": "MiamiFlorida",
             "target": "Rutgers",
             "win": "64",
             "loss": "6"
@@ -2235,7 +1965,7 @@
             "loss": "24"
         },
         {
-            "source": "Nevada-LasVegas",
+            "source": "NevadaLasVegas",
             "target": "AirForce",
             "win": "34",
             "loss": "13"
@@ -2283,22 +2013,10 @@
             "loss": "20"
         },
         {
-            "source": "Richmond",
-            "target": "ArkansasState",
-            "win": "30",
-            "loss": "27"
-        },
-        {
             "source": "SanJoseState",
             "target": "Rice",
             "win": "29",
             "loss": "16"
-        },
-        {
-            "source": "SouthFlorida",
-            "target": "Troy",
-            "win": "20",
-            "loss": "10"
         },
         {
             "source": "SouthernMississippi",
@@ -2331,13 +2049,7 @@
             "loss": "0"
         },
         {
-            "source": "TexasState",
-            "target": "Louisiana-Monroe",
-            "win": "27",
-            "loss": "7"
-        },
-        {
-            "source": "Texas-ElPaso",
+            "source": "TexasElPaso",
             "target": "NewMexicoState",
             "win": "41",
             "loss": "31"
@@ -2403,12 +2115,6 @@
             "loss": "24"
         },
         {
-            "source": "NorthTexas",
-            "target": "Samford",
-            "win": "41",
-            "loss": "6"
-        },
-        {
             "source": "WesternMichigan",
             "target": "Marshall",
             "win": "30",
@@ -2428,7 +2134,7 @@
         },
         {
             "source": "Akron",
-            "target": "BowlingGreen",
+            "target": "BowlingGreenState",
             "win": "27",
             "loss": "21"
         },
@@ -2446,7 +2152,7 @@
         },
         {
             "source": "Arkansas",
-            "target": "Louisiana-Monroe",
+            "target": "LouisianaMonroe",
             "win": "52",
             "loss": "6"
         },
@@ -2518,7 +2224,7 @@
         },
         {
             "source": "Louisville",
-            "target": "Alabama-Birmingham",
+            "target": "AlabamaBirmingham",
             "win": "38",
             "loss": "17"
         },
@@ -2529,7 +2235,7 @@
             "loss": "10"
         },
         {
-            "source": "Miami(FL)",
+            "source": "MiamiFlorida",
             "target": "FloridaState",
             "win": "27",
             "loss": "24"
@@ -2571,7 +2277,7 @@
             "loss": "27"
         },
         {
-            "source": "Nevada-LasVegas",
+            "source": "NevadaLasVegas",
             "target": "Nevada",
             "win": "38",
             "loss": "7"
@@ -2643,12 +2349,6 @@
             "loss": "17"
         },
         {
-            "source": "SouthernMississippi",
-            "target": "SouthFlorida",
-            "win": "41",
-            "loss": "7"
-        },
-        {
             "source": "Syracuse",
             "target": "Pittsburgh",
             "win": "24",
@@ -2667,7 +2367,7 @@
             "loss": "0"
         },
         {
-            "source": "Texas-ElPaso",
+            "source": "TexasElPaso",
             "target": "Tulsa",
             "win": "40",
             "loss": "7"
@@ -2680,7 +2380,7 @@
         },
         {
             "source": "Tulane",
-            "target": "Louisiana",
+            "target": "LouisianaLafayette",
             "win": "38",
             "loss": "37"
         },
@@ -2739,7 +2439,7 @@
             "loss": "7"
         },
         {
-            "source": "Alabama-Birmingham",
+            "source": "AlabamaBirmingham",
             "target": "Memphis",
             "win": "13",
             "loss": "9"
@@ -2757,12 +2457,6 @@
             "loss": "14"
         },
         {
-            "source": "BoiseState",
-            "target": "EasternWashington",
-            "win": "41",
-            "loss": "23"
-        },
-        {
             "source": "BostonCollege",
             "target": "Syracuse",
             "win": "20",
@@ -2775,12 +2469,6 @@
             "loss": "38"
         },
         {
-            "source": "CentralFlorida",
-            "target": "EasternKentucky",
-            "win": "34",
-            "loss": "3"
-        },
-        {
             "source": "Clemson",
             "target": "Maryland",
             "win": "35",
@@ -2788,7 +2476,7 @@
         },
         {
             "source": "ColoradoState",
-            "target": "Nevada-LasVegas",
+            "target": "NevadaLasVegas",
             "win": "20",
             "loss": "19"
         },
@@ -2866,7 +2554,7 @@
         },
         {
             "source": "LouisianaTech",
-            "target": "Louisiana",
+            "target": "LouisianaLafayette",
             "win": "48",
             "loss": "14"
         },
@@ -2878,7 +2566,7 @@
         },
         {
             "source": "MiamiOhio",
-            "target": "BowlingGreen",
+            "target": "BowlingGreenState",
             "win": "24",
             "loss": "10"
         },
@@ -2890,7 +2578,7 @@
         },
         {
             "source": "MiddleTennesseeState",
-            "target": "Louisiana-Monroe",
+            "target": "LouisianaMonroe",
             "win": "28",
             "loss": "0"
         },
@@ -2991,7 +2679,7 @@
             "loss": "0"
         },
         {
-            "source": "Texas-ElPaso",
+            "source": "TexasElPaso",
             "target": "SanJoseState",
             "win": "47",
             "loss": "30"
@@ -3033,7 +2721,7 @@
             "loss": "25"
         },
         {
-            "source": "Alabama-Birmingham",
+            "source": "AlabamaBirmingham",
             "target": "MiddleTennesseeState",
             "win": "14",
             "loss": "9"
@@ -3069,14 +2757,14 @@
             "loss": "0"
         },
         {
-            "source": "BowlingGreen",
+            "source": "BowlingGreenState",
             "target": "EasternMichigan",
             "win": "20",
             "loss": "6"
         },
         {
             "source": "CentralFlorida",
-            "target": "Louisiana-Monroe",
+            "target": "LouisianaMonroe",
             "win": "55",
             "loss": "0"
         },
@@ -3159,7 +2847,7 @@
             "loss": "7"
         },
         {
-            "source": "Miami(FL)",
+            "source": "MiamiFlorida",
             "target": "Temple",
             "win": "45",
             "loss": "17"
@@ -3177,7 +2865,7 @@
             "loss": "0"
         },
         {
-            "source": "Nevada-LasVegas",
+            "source": "NevadaLasVegas",
             "target": "Wyoming",
             "win": "42",
             "loss": "23"
@@ -3273,12 +2961,6 @@
             "loss": "14"
         },
         {
-            "source": "SouthFlorida",
-            "target": "Liberty",
-            "win": "44",
-            "loss": "6"
-        },
-        {
             "source": "Stanford",
             "target": "SouthernCalifornia",
             "win": "32",
@@ -3309,7 +2991,7 @@
             "loss": "3"
         },
         {
-            "source": "Texas-ElPaso",
+            "source": "TexasElPaso",
             "target": "FresnoState",
             "win": "23",
             "loss": "13"
@@ -3345,7 +3027,7 @@
             "loss": "7"
         },
         {
-            "source": "Alabama-Birmingham",
+            "source": "AlabamaBirmingham",
             "target": "EastCarolina",
             "win": "16",
             "loss": "13"
@@ -3453,7 +3135,7 @@
             "loss": "9"
         },
         {
-            "source": "Miami(FL)",
+            "source": "MiamiFlorida",
             "target": "LouisianaTech",
             "win": "42",
             "loss": "31"
@@ -3466,7 +3148,7 @@
         },
         {
             "source": "Mississippi",
-            "target": "Nevada-LasVegas",
+            "target": "NevadaLasVegas",
             "win": "43",
             "loss": "40"
         },
@@ -3484,7 +3166,7 @@
         },
         {
             "source": "NorthTexas",
-            "target": "Louisiana",
+            "target": "LouisianaLafayette",
             "win": "13",
             "loss": "0"
         },
@@ -3541,12 +3223,6 @@
             "target": "Hawaii",
             "win": "57",
             "loss": "48"
-        },
-        {
-            "source": "SouthFlorida",
-            "target": "Connecticut",
-            "win": "21",
-            "loss": "13"
         },
         {
             "source": "SouthernMethodist",
@@ -3676,7 +3352,7 @@
         },
         {
             "source": "Cincinnati",
-            "target": "Alabama-Birmingham",
+            "target": "AlabamaBirmingham",
             "win": "33",
             "loss": "21"
         },
@@ -3735,8 +3411,8 @@
             "loss": "10"
         },
         {
-            "source": "Louisiana",
-            "target": "Louisiana-Monroe",
+            "source": "LouisianaLafayette",
+            "target": "LouisianaMonroe",
             "win": "21",
             "loss": "18"
         },
@@ -3754,7 +3430,7 @@
         },
         {
             "source": "Marshall",
-            "target": "BowlingGreen",
+            "target": "BowlingGreenState",
             "win": "20",
             "loss": "13"
         },
@@ -3765,7 +3441,7 @@
             "loss": "28"
         },
         {
-            "source": "Miami(FL)",
+            "source": "MiamiFlorida",
             "target": "VirginiaTech",
             "win": "41",
             "loss": "21"
@@ -3855,12 +3531,6 @@
             "loss": "24"
         },
         {
-            "source": "SouthFlorida",
-            "target": "WesternKentucky",
-            "win": "30",
-            "loss": "24"
-        },
-        {
             "source": "SouthernCalifornia",
             "target": "ArizonaState",
             "win": "44",
@@ -3891,7 +3561,7 @@
             "loss": "16"
         },
         {
-            "source": "Texas-ElPaso",
+            "source": "TexasElPaso",
             "target": "Nevada",
             "win": "45",
             "loss": "22"
@@ -3916,7 +3586,7 @@
         },
         {
             "source": "Utah",
-            "target": "Nevada-LasVegas",
+            "target": "NevadaLasVegas",
             "win": "38",
             "loss": "16"
         },
@@ -4047,12 +3717,6 @@
             "loss": "27"
         },
         {
-            "source": "JacksonvilleState",
-            "target": "Louisiana",
-            "win": "28",
-            "loss": "14"
-        },
-        {
             "source": "KansasState",
             "target": "Nebraska",
             "win": "29",
@@ -4066,7 +3730,7 @@
         },
         {
             "source": "LouisianaTech",
-            "target": "Louisiana-Monroe",
+            "target": "LouisianaMonroe",
             "win": "42",
             "loss": "19"
         },
@@ -4083,7 +3747,7 @@
             "loss": "31"
         },
         {
-            "source": "Miami(FL)",
+            "source": "MiamiFlorida",
             "target": "Pittsburgh",
             "win": "35",
             "loss": "7"
@@ -4101,12 +3765,6 @@
             "loss": "10"
         },
         {
-            "source": "MiddleTennesseeState",
-            "target": "SouthFlorida",
-            "win": "45",
-            "loss": "9"
-        },
-        {
             "source": "MississippiState",
             "target": "Alabama",
             "win": "29",
@@ -4119,7 +3777,7 @@
             "loss": "22"
         },
         {
-            "source": "Nevada-LasVegas",
+            "source": "NevadaLasVegas",
             "target": "NewMexico",
             "win": "18",
             "loss": "14"
@@ -4144,7 +3802,7 @@
         },
         {
             "source": "Ohio",
-            "target": "BowlingGreen",
+            "target": "BowlingGreenState",
             "win": "23",
             "loss": "21"
         },
@@ -4173,12 +3831,6 @@
             "loss": "9"
         },
         {
-            "source": "RhodeIsland",
-            "target": "Connecticut",
-            "win": "26",
-            "loss": "21"
-        },
-        {
             "source": "SouthernMethodist",
             "target": "Tulsa",
             "win": "24",
@@ -4186,7 +3838,7 @@
         },
         {
             "source": "SouthernMississippi",
-            "target": "Alabama-Birmingham",
+            "target": "AlabamaBirmingham",
             "win": "33",
             "loss": "30"
         },
@@ -4227,7 +3879,7 @@
             "loss": "0"
         },
         {
-            "source": "Texas-ElPaso",
+            "source": "TexasElPaso",
             "target": "Rice",
             "win": "38",
             "loss": "21"
@@ -4305,7 +3957,7 @@
             "loss": "6"
         },
         {
-            "source": "Alabama-Birmingham",
+            "source": "AlabamaBirmingham",
             "target": "Army",
             "win": "27",
             "loss": "7"
@@ -4383,12 +4035,6 @@
             "loss": "10"
         },
         {
-            "source": "IdahoState",
-            "target": "UtahState",
-            "win": "27",
-            "loss": "24"
-        },
-        {
             "source": "IowaState",
             "target": "Kansas",
             "win": "38",
@@ -4407,7 +4053,7 @@
             "loss": "13"
         },
         {
-            "source": "Miami(FL)",
+            "source": "MiamiFlorida",
             "target": "Syracuse",
             "win": "26",
             "loss": "0"
@@ -4426,7 +4072,7 @@
         },
         {
             "source": "MiddleTennesseeState",
-            "target": "Louisiana",
+            "target": "LouisianaLafayette",
             "win": "41",
             "loss": "38"
         },
@@ -4515,12 +4161,6 @@
             "loss": "13"
         },
         {
-            "source": "SouthFlorida",
-            "target": "AustinPeay",
-            "win": "59",
-            "loss": "0"
-        },
-        {
             "source": "SouthernCalifornia",
             "target": "UCLA",
             "win": "38",
@@ -4540,7 +4180,7 @@
         },
         {
             "source": "TexasChristian",
-            "target": "Texas-ElPaso",
+            "target": "TexasElPaso",
             "win": "47",
             "loss": "14"
         },
@@ -4587,14 +4227,8 @@
             "loss": "0"
         },
         {
-            "source": "Wofford",
-            "target": "Louisiana-Monroe",
-            "win": "24",
-            "loss": "6"
-        },
-        {
             "source": "Toledo",
-            "target": "BowlingGreen",
+            "target": "BowlingGreenState",
             "win": "51",
             "loss": "17"
         },
@@ -4665,13 +4299,13 @@
             "loss": "15"
         },
         {
-            "source": "Miami(FL)",
+            "source": "MiamiFlorida",
             "target": "BostonCollege",
             "win": "52",
             "loss": "6"
         },
         {
-            "source": "Nevada-LasVegas",
+            "source": "NevadaLasVegas",
             "target": "SanDiegoState",
             "win": "31",
             "loss": "24"
@@ -4743,7 +4377,7 @@
             "loss": "28"
         },
         {
-            "source": "Nevada-LasVegas",
+            "source": "NevadaLasVegas",
             "target": "Hawaii",
             "win": "34",
             "loss": "32"
@@ -4761,7 +4395,7 @@
             "loss": "21"
         },
         {
-            "source": "Nevada-LasVegas",
+            "source": "NevadaLasVegas",
             "target": "Arkansas",
             "win": "31",
             "loss": "14"
@@ -4792,7 +4426,7 @@
         },
         {
             "source": "BoiseState",
-            "target": "Texas-ElPaso",
+            "target": "TexasElPaso",
             "win": "38",
             "loss": "23"
         },
@@ -4893,7 +4527,7 @@
             "loss": "24"
         },
         {
-            "source": "Miami(FL)",
+            "source": "MiamiFlorida",
             "target": "Florida",
             "win": "37",
             "loss": "20"
