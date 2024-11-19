@@ -1,0 +1,694 @@
+{
+    "nodes": [
+        {
+            "id": "BrighamYoung",
+            "value": "Mountain West",
+            "wins": 6,
+            "losses": 6
+        },
+        {
+            "id": "FloridaState",
+            "value": "Atlantic Coast",
+            "wins": 11,
+            "losses": 2
+        },
+        {
+            "id": "Iowa",
+            "value": "Big Ten",
+            "wins": 3,
+            "losses": 9
+        },
+        {
+            "id": "KansasState",
+            "value": "Big Twelve",
+            "wins": 11,
+            "losses": 3
+        },
+        {
+            "id": "NewMexico",
+            "value": "Mountain West",
+            "wins": 5,
+            "losses": 7
+        },
+        {
+            "id": "TexasTech",
+            "value": "Big Twelve",
+            "wins": 7,
+            "losses": 6
+        },
+        {
+            "id": "PennState",
+            "value": "Big Ten",
+            "wins": 5,
+            "losses": 7
+        },
+        {
+            "id": "SouthernCalifornia",
+            "value": "Pacific Ten",
+            "wins": 5,
+            "losses": 7
+        },
+        {
+            "id": "ArizonaState",
+            "value": "Pacific Ten",
+            "wins": 6,
+            "losses": 6
+        },
+        {
+            "id": "SanDiegoState",
+            "value": "Mountain West",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "Baylor",
+            "value": "Big Twelve",
+            "wins": 2,
+            "losses": 9
+        },
+        {
+            "id": "NorthTexas",
+            "value": "Sun Belt",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "NorthernIllinois",
+            "value": "Mid-America",
+            "wins": 6,
+            "losses": 5
+        },
+        {
+            "id": "Northwestern",
+            "value": "Big Ten",
+            "wins": 8,
+            "losses": 4
+        },
+        {
+            "id": "WesternMichigan",
+            "value": "Mid-America",
+            "wins": 9,
+            "losses": 3
+        },
+        {
+            "id": "Wisconsin",
+            "value": "Big Ten",
+            "wins": 9,
+            "losses": 4
+        },
+        {
+            "id": "Wyoming",
+            "value": "Mountain West",
+            "wins": 1,
+            "losses": 10
+        },
+        {
+            "id": "Auburn",
+            "value": "Southeastern",
+            "wins": 9,
+            "losses": 4
+        },
+        {
+            "id": "Akron",
+            "value": "Mid-America",
+            "wins": 6,
+            "losses": 5
+        },
+        {
+            "id": "VirginiaTech",
+            "value": "Big East",
+            "wins": 11,
+            "losses": 1
+        },
+        {
+            "id": "Alabama",
+            "value": "Southeastern",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "UCLA",
+            "value": "Pacific Ten",
+            "wins": 6,
+            "losses": 6
+        },
+        {
+            "id": "Arizona",
+            "value": "Pacific Ten",
+            "wins": 5,
+            "losses": 6
+        },
+        {
+            "id": "Utah",
+            "value": "Mountain West",
+            "wins": 4,
+            "losses": 7
+        },
+        {
+            "id": "ArkansasState",
+            "value": "Sun Belt",
+            "wins": 1,
+            "losses": 10
+        },
+        {
+            "id": "NorthCarolinaState",
+            "value": "Atlantic Coast",
+            "wins": 8,
+            "losses": 4
+        },
+        {
+            "id": "BallState",
+            "value": "Mid-America",
+            "wins": 5,
+            "losses": 6
+        },
+        {
+            "id": "Florida",
+            "value": "Southeastern",
+            "wins": 10,
+            "losses": 3
+        },
+        {
+            "id": "BoiseState",
+            "value": "Western Athletic",
+            "wins": 10,
+            "losses": 2
+        },
+        {
+            "id": "BostonCollege",
+            "value": "Big East",
+            "wins": 7,
+            "losses": 5
+        },
+        {
+            "id": "WestVirginia",
+            "value": "Big East",
+            "wins": 7,
+            "losses": 5
+        },
+        {
+            "id": "BowlingGreenState",
+            "value": "Mid-America",
+            "wins": 2,
+            "losses": 9
+        },
+        {
+            "id": "Michigan",
+            "value": "Big Ten",
+            "wins": 9,
+            "losses": 3
+        },
+        {
+            "id": "Virginia",
+            "value": "Atlantic Coast",
+            "wins": 6,
+            "losses": 6
+        },
+        {
+            "id": "Buffalo",
+            "value": "Mid-America",
+            "wins": 2,
+            "losses": 9
+        },
+        {
+            "id": "Syracuse",
+            "value": "Big East",
+            "wins": 6,
+            "losses": 5
+        },
+        {
+            "id": "CentralFlorida",
+            "value": "Independents",
+            "wins": 7,
+            "losses": 4
+        },
+        {
+            "id": "GeorgiaTech",
+            "value": "Atlantic Coast",
+            "wins": 9,
+            "losses": 3
+        },
+        {
+            "id": "CentralMichigan",
+            "value": "Mid-America",
+            "wins": 2,
+            "losses": 9
+        },
+        {
+            "id": "Purdue",
+            "value": "Big Ten",
+            "wins": 8,
+            "losses": 4
+        },
+        {
+            "id": "Colorado",
+            "value": "Big Twelve",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "ColoradoState",
+            "value": "Mountain West",
+            "wins": 10,
+            "losses": 2
+        },
+        {
+            "id": "Connecticut",
+            "value": "Independents",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "EasternMichigan",
+            "value": "Mid-America",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "EastCarolina",
+            "value": "Conference USA",
+            "wins": 8,
+            "losses": 4
+        },
+        {
+            "id": "Duke",
+            "value": "Atlantic Coast",
+            "wins": 0,
+            "losses": 11
+        },
+        {
+            "id": "FresnoState",
+            "value": "Western Athletic",
+            "wins": 7,
+            "losses": 5
+        },
+        {
+            "id": "OhioState",
+            "value": "Big Ten",
+            "wins": 8,
+            "losses": 4
+        },
+        {
+            "id": "Houston",
+            "value": "Conference USA",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "Rice",
+            "value": "Western Athletic",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "Idaho",
+            "value": "Sun Belt",
+            "wins": 5,
+            "losses": 6
+        },
+        {
+            "id": "Washington",
+            "value": "Pacific Ten",
+            "wins": 11,
+            "losses": 1
+        },
+        {
+            "id": "Kansas",
+            "value": "Big Twelve",
+            "wins": 4,
+            "losses": 7
+        },
+        {
+            "id": "SouthernMethodist",
+            "value": "Western Athletic",
+            "wins": 3,
+            "losses": 9
+        },
+        {
+            "id": "Kent",
+            "value": "Mid-America",
+            "wins": 1,
+            "losses": 10
+        },
+        {
+            "id": "Pittsburgh",
+            "value": "Big East",
+            "wins": 7,
+            "losses": 5
+        },
+        {
+            "id": "Kentucky",
+            "value": "Southeastern",
+            "wins": 2,
+            "losses": 9
+        },
+        {
+            "id": "Louisville",
+            "value": "Conference USA",
+            "wins": 9,
+            "losses": 3
+        },
+        {
+            "id": "LouisianaTech",
+            "value": "Western Athletic",
+            "wins": 3,
+            "losses": 9
+        },
+        {
+            "id": "LouisianaMonroe",
+            "value": "Sun Belt",
+            "wins": 1,
+            "losses": 10
+        },
+        {
+            "id": "Minnesota",
+            "value": "Big Ten",
+            "wins": 6,
+            "losses": 6
+        },
+        {
+            "id": "MiamiOhio",
+            "value": "Mid-America",
+            "wins": 6,
+            "losses": 5
+        },
+        {
+            "id": "Vanderbilt",
+            "value": "Southeastern",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "MiddleTennesseeState",
+            "value": "Sun Belt",
+            "wins": 6,
+            "losses": 5
+        },
+        {
+            "id": "Illinois",
+            "value": "Big Ten",
+            "wins": 5,
+            "losses": 6
+        },
+        {
+            "id": "MississippiState",
+            "value": "Southeastern",
+            "wins": 8,
+            "losses": 4
+        },
+        {
+            "id": "Memphis",
+            "value": "Conference USA",
+            "wins": 4,
+            "losses": 7
+        },
+        {
+            "id": "Nevada",
+            "value": "Western Athletic",
+            "wins": 2,
+            "losses": 10
+        },
+        {
+            "id": "Oregon",
+            "value": "Pacific Ten",
+            "wins": 10,
+            "losses": 2
+        },
+        {
+            "id": "NewMexicoState",
+            "value": "Sun Belt",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "SouthCarolina",
+            "value": "Southeastern",
+            "wins": 8,
+            "losses": 4
+        },
+        {
+            "id": "Ohio",
+            "value": "Mid-America",
+            "wins": 7,
+            "losses": 4
+        },
+        {
+            "id": "IowaState",
+            "value": "Big Twelve",
+            "wins": 9,
+            "losses": 3
+        },
+        {
+            "id": "SanJoseState",
+            "value": "Western Athletic",
+            "wins": 7,
+            "losses": 5
+        },
+        {
+            "id": "Nebraska",
+            "value": "Big Twelve",
+            "wins": 10,
+            "losses": 2
+        },
+        {
+            "id": "SouthernMississippi",
+            "value": "Conference USA",
+            "wins": 8,
+            "losses": 4
+        },
+        {
+            "id": "Tennessee",
+            "value": "Southeastern",
+            "wins": 8,
+            "losses": 4
+        },
+        {
+            "id": "Stanford",
+            "value": "Pacific Ten",
+            "wins": 5,
+            "losses": 6
+        },
+        {
+            "id": "WashingtonState",
+            "value": "Pacific Ten",
+            "wins": 4,
+            "losses": 7
+        },
+        {
+            "id": "Temple",
+            "value": "Big East",
+            "wins": 4,
+            "losses": 7
+        },
+        {
+            "id": "Navy",
+            "value": "Independents",
+            "wins": 1,
+            "losses": 10
+        },
+        {
+            "id": "TexasA&M",
+            "value": "Big Twelve",
+            "wins": 7,
+            "losses": 5
+        },
+        {
+            "id": "NotreDame",
+            "value": "Independents",
+            "wins": 9,
+            "losses": 3
+        },
+        {
+            "id": "TexasElPaso",
+            "value": "Western Athletic",
+            "wins": 8,
+            "losses": 4
+        },
+        {
+            "id": "Oklahoma",
+            "value": "Big Twelve",
+            "wins": 13,
+            "losses": 0
+        },
+        {
+            "id": "Toledo",
+            "value": "Mid-America",
+            "wins": 10,
+            "losses": 1
+        },
+        {
+            "id": "Tulane",
+            "value": "Conference USA",
+            "wins": 6,
+            "losses": 5
+        },
+        {
+            "id": "Mississippi",
+            "value": "Southeastern",
+            "wins": 7,
+            "losses": 5
+        },
+        {
+            "id": "Tulsa",
+            "value": "Western Athletic",
+            "wins": 5,
+            "losses": 7
+        },
+        {
+            "id": "NorthCarolina",
+            "value": "Atlantic Coast",
+            "wins": 6,
+            "losses": 5
+        },
+        {
+            "id": "UtahState",
+            "value": "Independents",
+            "wins": 5,
+            "losses": 6
+        },
+        {
+            "id": "Army",
+            "value": "Conference USA",
+            "wins": 1,
+            "losses": 10
+        },
+        {
+            "id": "Cincinnati",
+            "value": "Conference USA",
+            "wins": 7,
+            "losses": 5
+        },
+        {
+            "id": "AirForce",
+            "value": "Mountain West",
+            "wins": 9,
+            "losses": 3
+        },
+        {
+            "id": "Rutgers",
+            "value": "Big East",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "Georgia",
+            "value": "Southeastern",
+            "wins": 8,
+            "losses": 4
+        },
+        {
+            "id": "LouisianaState",
+            "value": "Southeastern",
+            "wins": 8,
+            "losses": 4
+        },
+        {
+            "id": "LouisianaLafayette",
+            "value": "Sun Belt",
+            "wins": 1,
+            "losses": 10
+        },
+        {
+            "id": "Texas",
+            "value": "Big Twelve",
+            "wins": 9,
+            "losses": 3
+        },
+        {
+            "id": "Marshall",
+            "value": "Mid-America",
+            "wins": 8,
+            "losses": 5
+        },
+        {
+            "id": "MichiganState",
+            "value": "Big Ten",
+            "wins": 5,
+            "losses": 6
+        },
+        {
+            "id": "MiamiFlorida",
+            "value": "Big East",
+            "wins": 11,
+            "losses": 1
+        },
+        {
+            "id": "Missouri",
+            "value": "Big Twelve",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "Clemson",
+            "value": "Atlantic Coast",
+            "wins": 9,
+            "losses": 3
+        },
+        {
+            "id": "NevadaLasVegas",
+            "value": "Mountain West",
+            "wins": 8,
+            "losses": 5
+        },
+        {
+            "id": "WakeForest",
+            "value": "Atlantic Coast",
+            "wins": 2,
+            "losses": 9
+        },
+        {
+            "id": "Indiana",
+            "value": "Big Ten",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "OklahomaState",
+            "value": "Big Twelve",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "OregonState",
+            "value": "Pacific Ten",
+            "wins": 11,
+            "losses": 1
+        },
+        {
+            "id": "Maryland",
+            "value": "Atlantic Coast",
+            "wins": 5,
+            "losses": 6
+        },
+        {
+            "id": "TexasChristian",
+            "value": "Conference USA",
+            "wins": 10,
+            "losses": 2
+        },
+        {
+            "id": "California",
+            "value": "Pacific Ten",
+            "wins": 3,
+            "losses": 8
+        },
+        {
+            "id": "AlabamaBirmingham",
+            "value": "Conference USA",
+            "wins": 7,
+            "losses": 4
+        },
+        {
+            "id": "Arkansas",
+            "value": "Southeastern",
+            "wins": 6,
+            "losses": 6
+        },
+        {
+            "id": "Hawaii",
+            "value": "Western Athletic",
+            "wins": 3,
+            "losses": 9
+        }
+    ]
+}
