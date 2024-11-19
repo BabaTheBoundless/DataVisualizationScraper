@@ -43,5 +43,5 @@ def get_team_record(team_name):
                
             }
             
-print(get_team_record("Oklahoma"))
+#print(get_team_record("Oklahoma"))
 

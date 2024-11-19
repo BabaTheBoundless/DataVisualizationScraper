@@ -48,7 +48,7 @@ for node in G.nodes(data=True):
     time.sleep(1)
     
 
-    #print(conference_dict["5"])
+    print(conference_dict["5"])
     #print(node_dict)
 
 #extract the edges
