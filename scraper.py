@@ -38,7 +38,7 @@ def get_team_record(team_name):
             wins = int(match.group(1))
             losses = int(match.group(2))
             return {
-                'wins': wins,
+                'wins': wins, 
                 'losses': losses,
                
             }
