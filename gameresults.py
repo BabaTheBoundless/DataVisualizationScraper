@@ -8,16 +8,13 @@ from scraper import get_team_record
 import time
 
 def clean_team_name(team_name):
-    team_name = re.sub(r'([a-z])([A-Z])', r'\1-\2', team_name).lower()
-    team_name.lower()
-    if team_name == "kent":
-        team_name = "kent-state"
-    elif team_name == "miami-florida":
-        team_name = "miami-fl"
-    elif team_name == "miami-ohio":
-        team_name = "miami-oh"
-    elif team_name == "texas-a&m":
-        team_name = "texas-am"
+    team_name = re.sub(r'\s+', '', team_name)
+    if team_name == "Miami(FL)":
+        team_name = "MiamiFlorida"
+    elif team_name == "Miami(OH)":
+        team_name = "MiamiOhio"
+    elif team_name == "KentState":
+        team_name = "Kent"
     return team_name
 
 
@@ -46,7 +43,7 @@ def scrape_cfb_results():
         #print(cols)
 
         #extract and clean data
-        print(cols[3].text.strip())
+        #print(cols[3].text.strip())
         winner = clean_team_name(cols[3].text.strip())
         winner_points = clean_team_name(cols[4].text.strip())
         loser = clean_team_name(cols[6].text.strip())
