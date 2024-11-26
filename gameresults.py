@@ -121,7 +121,6 @@ conference_dict = {
     "9": "Southeastern",
     "10": "Sun Belt",
     "11": "Western Athletic"
-   
 }
 
 #print(conference_dict["0"])
