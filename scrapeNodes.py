@@ -42,7 +42,7 @@ def scrape_nodes():
 
         team = (cols[0].text.strip())
         conference = conference_removal((cols[1].text.strip()))
-        print(conference)
+        #print(team)
         #print(team)
         #print(conference)
         data.append({

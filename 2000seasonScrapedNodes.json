@@ -139,7 +139,7 @@
             "losses": 1
         },
         {
-            "id": "Pittsburgh",
+            "id": "Pitt",
             "value": "Big East",
             "wins": 7,
             "losses": 5
@@ -625,7 +625,7 @@
             "losses": 4
         },
         {
-            "id": "Mississippi",
+            "id": "Ole Miss",
             "value": "SEC",
             "wins": 7,
             "losses": 5
@@ -699,10 +699,64 @@
     ],
     "edges": [
         {
+            "source": "Florida State",
+            "target": "BYU",
+            "win": "29",
+            "loss": "3"
+        },
+        {
+            "source": "Kansas State",
+            "target": "Iowa",
+            "win": "27",
+            "loss": "7"
+        },
+        {
+            "source": "Louisiana Tech",
+            "target": "Mississippi State",
+            "win": "63",
+            "loss": "10"
+        },
+        {
+            "source": "Texas Tech",
+            "target": "New Mexico",
+            "win": "24",
+            "loss": "3"
+        },
+        {
+            "source": "USC",
+            "target": "Penn State",
+            "win": "29",
+            "loss": "5"
+        },
+        {
+            "source": "Arizona State",
+            "target": "San Diego State",
+            "win": "10",
+            "loss": "7"
+        },
+        {
             "source": "Auburn",
             "target": "Wyoming",
             "win": "35",
             "loss": "21"
+        },
+        {
+            "source": "Baylor",
+            "target": "North Texas",
+            "win": "20",
+            "loss": "7"
+        },
+        {
+            "source": "Northwestern",
+            "target": "Northern Illinois",
+            "win": "35",
+            "loss": "17"
+        },
+        {
+            "source": "Wisconsin",
+            "target": "Western Michigan",
+            "win": "19",
+            "loss": "7"
         },
         {
             "source": "Arizona",
@@ -711,16 +765,136 @@
             "loss": "3"
         },
         {
+            "source": "Boise State",
+            "target": "New Mexico",
+            "win": "31",
+            "loss": "14"
+        },
+        {
+            "source": "BYU",
+            "target": "Virginia",
+            "win": "38",
+            "loss": "35"
+        },
+        {
+            "source": "Colorado State",
+            "target": "Colorado",
+            "win": "28",
+            "loss": "24"
+        },
+        {
+            "source": "East Carolina",
+            "target": "Duke",
+            "win": "38",
+            "loss": "0"
+        },
+        {
+            "source": "Eastern Michigan",
+            "target": "Connecticut",
+            "win": "32",
+            "loss": "25"
+        },
+        {
+            "source": "Florida",
+            "target": "Ball State",
+            "win": "40",
+            "loss": "19"
+        },
+        {
+            "source": "Georgia Tech",
+            "target": "UCF",
+            "win": "21",
+            "loss": "17"
+        },
+        {
+            "source": "Illinois",
+            "target": "Middle Tennessee State",
+            "win": "35",
+            "loss": "6"
+        },
+        {
+            "source": "Iowa State",
+            "target": "Ohio",
+            "win": "25",
+            "loss": "15"
+        },
+        {
+            "source": "Kansas State",
+            "target": "Louisiana Tech",
+            "win": "54",
+            "loss": "10"
+        },
+        {
             "source": "Louisville",
             "target": "Kentucky",
             "win": "40",
             "loss": "34"
         },
         {
-            "source": "Mississippi",
+            "source": "Miami (OH)",
+            "target": "Vanderbilt",
+            "win": "33",
+            "loss": "30"
+        },
+        {
+            "source": "Michigan",
+            "target": "Bowling Green",
+            "win": "42",
+            "loss": "7"
+        },
+        {
+            "source": "Minnesota",
+            "target": "Louisiana-Monroe",
+            "win": "47",
+            "loss": "10"
+        },
+        {
+            "source": "Ole Miss",
             "target": "Tulane",
             "win": "49",
             "loss": "20"
+        },
+        {
+            "source": "Mississippi State",
+            "target": "Memphis",
+            "win": "17",
+            "loss": "3"
+        },
+        {
+            "source": "Nebraska",
+            "target": "San Jose State",
+            "win": "49",
+            "loss": "13"
+        },
+        {
+            "source": "North Carolina",
+            "target": "Tulsa",
+            "win": "30",
+            "loss": "9"
+        },
+        {
+            "source": "North Carolina State",
+            "target": "Arkansas State",
+            "win": "38",
+            "loss": "31"
+        },
+        {
+            "source": "Notre Dame",
+            "target": "Texas A&M",
+            "win": "24",
+            "loss": "10"
+        },
+        {
+            "source": "Ohio State",
+            "target": "Fresno State",
+            "win": "43",
+            "loss": "10"
+        },
+        {
+            "source": "Oklahoma",
+            "target": "UTEP",
+            "win": "55",
+            "loss": "14"
         },
         {
             "source": "Oregon",
@@ -729,10 +903,40 @@
             "loss": "7"
         },
         {
+            "source": "Pitt",
+            "target": "Kent State",
+            "win": "30",
+            "loss": "7"
+        },
+        {
+            "source": "Purdue",
+            "target": "Central Michigan",
+            "win": "48",
+            "loss": "0"
+        },
+        {
             "source": "Rice",
             "target": "Houston",
             "win": "30",
             "loss": "27"
+        },
+        {
+            "source": "South Carolina",
+            "target": "New Mexico State",
+            "win": "31",
+            "loss": "0"
+        },
+        {
+            "source": "SMU",
+            "target": "Kansas",
+            "win": "31",
+            "loss": "17"
+        },
+        {
+            "source": "Stanford",
+            "target": "Washington State",
+            "win": "24",
+            "loss": "10"
         },
         {
             "source": "Syracuse",
@@ -747,10 +951,34 @@
             "loss": "6"
         },
         {
+            "source": "Tennessee",
+            "target": "Southern Mississippi",
+            "win": "19",
+            "loss": "16"
+        },
+        {
+            "source": "Texas Tech",
+            "target": "Utah State",
+            "win": "38",
+            "loss": "16"
+        },
+        {
+            "source": "Toledo",
+            "target": "Penn State",
+            "win": "24",
+            "loss": "6"
+        },
+        {
             "source": "UCLA",
             "target": "Alabama",
             "win": "35",
             "loss": "24"
+        },
+        {
+            "source": "Virginia Tech",
+            "target": "Akron",
+            "win": "52",
+            "loss": "23"
         },
         {
             "source": "Washington",
@@ -759,10 +987,28 @@
             "loss": "20"
         },
         {
+            "source": "West Virginia",
+            "target": "Boston College",
+            "win": "34",
+            "loss": "14"
+        },
+        {
             "source": "Cincinnati",
             "target": "Army",
             "win": "23",
             "loss": "17"
+        },
+        {
+            "source": "Virginia Tech",
+            "target": "East Carolina",
+            "win": "45",
+            "loss": "28"
+        },
+        {
+            "source": "Air Force",
+            "target": "BYU",
+            "win": "31",
+            "loss": "23"
         },
         {
             "source": "Alabama",
@@ -772,15 +1018,27 @@
         },
         {
             "source": "Auburn",
-            "target": "Mississippi",
+            "target": "Ole Miss",
             "win": "35",
             "loss": "27"
+        },
+        {
+            "source": "Boston College",
+            "target": "Army",
+            "win": "55",
+            "loss": "17"
         },
         {
             "source": "California",
             "target": "Utah",
             "win": "24",
             "loss": "21"
+        },
+        {
+            "source": "Central Michigan",
+            "target": "Akron",
+            "win": "17",
+            "loss": "7"
         },
         {
             "source": "Cincinnati",
@@ -795,16 +1053,88 @@
             "loss": "9"
         },
         {
+            "source": "Florida",
+            "target": "Middle Tennessee State",
+            "win": "55",
+            "loss": "0"
+        },
+        {
+            "source": "Florida State",
+            "target": "Georgia Tech",
+            "win": "26",
+            "loss": "21"
+        },
+        {
+            "source": "Illinois",
+            "target": "San Diego State",
+            "win": "49",
+            "loss": "13"
+        },
+        {
+            "source": "Iowa State",
+            "target": "Nevada-Las Vegas",
+            "win": "37",
+            "loss": "22"
+        },
+        {
+            "source": "Kentucky",
+            "target": "South Florida",
+            "win": "27",
+            "loss": "9"
+        },
+        {
+            "source": "LSU",
+            "target": "Houston",
+            "win": "28",
+            "loss": "13"
+        },
+        {
             "source": "Maryland",
             "target": "Temple",
             "win": "17",
             "loss": "10"
         },
         {
+            "source": "Memphis",
+            "target": "Louisiana-Monroe",
+            "win": "28",
+            "loss": "0"
+        },
+        {
+            "source": "Miami (OH)",
+            "target": "Eastern Michigan",
+            "win": "34",
+            "loss": "17"
+        },
+        {
             "source": "Michigan",
             "target": "Rice",
             "win": "38",
             "loss": "7"
+        },
+        {
+            "source": "Michigan State",
+            "target": "Marshall",
+            "win": "34",
+            "loss": "24"
+        },
+        {
+            "source": "Nebraska",
+            "target": "Notre Dame",
+            "win": "27",
+            "loss": "24"
+        },
+        {
+            "source": "North Carolina",
+            "target": "Wake Forest",
+            "win": "35",
+            "loss": "14"
+        },
+        {
+            "source": "North Carolina State",
+            "target": "Indiana",
+            "win": "41",
+            "loss": "38"
         },
         {
             "source": "Northwestern",
@@ -819,10 +1149,118 @@
             "loss": "17"
         },
         {
+            "source": "Ohio State",
+            "target": "Arizona",
+            "win": "27",
+            "loss": "17"
+        },
+        {
+            "source": "Oklahoma",
+            "target": "Arkansas State",
+            "win": "45",
+            "loss": "7"
+        },
+        {
+            "source": "Oklahoma State",
+            "target": "Tulsa",
+            "win": "36",
+            "loss": "26"
+        },
+        {
+            "source": "Oregon State",
+            "target": "New Mexico",
+            "win": "28",
+            "loss": "20"
+        },
+        {
+            "source": "Penn State",
+            "target": "Louisiana Tech",
+            "win": "67",
+            "loss": "7"
+        },
+        {
+            "source": "Pitt",
+            "target": "Bowling Green",
+            "win": "34",
+            "loss": "16"
+        },
+        {
+            "source": "Purdue",
+            "target": "Kent State",
+            "win": "45",
+            "loss": "10"
+        },
+        {
             "source": "Rutgers",
             "target": "Buffalo",
             "win": "59",
             "loss": "0"
+        },
+        {
+            "source": "San Jose State",
+            "target": "Stanford",
+            "win": "40",
+            "loss": "27"
+        },
+        {
+            "source": "South Carolina",
+            "target": "Georgia",
+            "win": "21",
+            "loss": "10"
+        },
+        {
+            "source": "USC",
+            "target": "Colorado",
+            "win": "17",
+            "loss": "14"
+        },
+        {
+            "source": "Texas",
+            "target": "Louisiana",
+            "win": "52",
+            "loss": "10"
+        },
+        {
+            "source": "Texas A&M",
+            "target": "Wyoming",
+            "win": "51",
+            "loss": "3"
+        },
+        {
+            "source": "Texas Christian",
+            "target": "Nevada",
+            "win": "41",
+            "loss": "10"
+        },
+        {
+            "source": "Texas Tech",
+            "target": "North Texas",
+            "win": "13",
+            "loss": "7"
+        },
+        {
+            "source": "UTEP",
+            "target": "SMU",
+            "win": "37",
+            "loss": "20"
+        },
+        {
+            "source": "UCLA",
+            "target": "Fresno State",
+            "win": "24",
+            "loss": "21"
+        },
+        {
+            "source": "Washington",
+            "target": "Miami (FL)",
+            "win": "34",
+            "loss": "29"
+        },
+        {
+            "source": "Western Michigan",
+            "target": "Iowa",
+            "win": "27",
+            "loss": "21"
         },
         {
             "source": "Wisconsin",
@@ -831,16 +1269,76 @@
             "loss": "23"
         },
         {
+            "source": "Mississippi State",
+            "target": "BYU",
+            "win": "44",
+            "loss": "28"
+        },
+        {
+            "source": "Akron",
+            "target": "UCF",
+            "win": "35",
+            "loss": "24"
+        },
+        {
+            "source": "Arizona",
+            "target": "San Diego State",
+            "win": "17",
+            "loss": "3"
+        },
+        {
+            "source": "Arizona State",
+            "target": "Colorado State",
+            "win": "13",
+            "loss": "10"
+        },
+        {
+            "source": "Arkansas",
+            "target": "Boise State",
+            "win": "38",
+            "loss": "31"
+        },
+        {
+            "source": "Auburn",
+            "target": "LSU",
+            "win": "34",
+            "loss": "17"
+        },
+        {
+            "source": "Clemson",
+            "target": "Wake Forest",
+            "win": "55",
+            "loss": "7"
+        },
+        {
             "source": "Connecticut",
             "target": "Buffalo",
             "win": "24",
             "loss": "21"
         },
         {
+            "source": "East Carolina",
+            "target": "Tulane",
+            "win": "37",
+            "loss": "17"
+        },
+        {
             "source": "Florida",
             "target": "Tennessee",
             "win": "27",
             "loss": "23"
+        },
+        {
+            "source": "Florida State",
+            "target": "North Carolina",
+            "win": "63",
+            "loss": "14"
+        },
+        {
+            "source": "Georgia Tech",
+            "target": "Navy",
+            "win": "40",
+            "loss": "13"
         },
         {
             "source": "Houston",
@@ -855,10 +1353,40 @@
             "loss": "15"
         },
         {
+            "source": "Iowa State",
+            "target": "Iowa",
+            "win": "24",
+            "loss": "14"
+        },
+        {
+            "source": "Kansas",
+            "target": "UAB",
+            "win": "23",
+            "loss": "20"
+        },
+        {
+            "source": "Kansas State",
+            "target": "Ball State",
+            "win": "76",
+            "loss": "0"
+        },
+        {
             "source": "Kentucky",
             "target": "Indiana",
             "win": "41",
             "loss": "34"
+        },
+        {
+            "source": "Memphis",
+            "target": "Arkansas State",
+            "win": "19",
+            "loss": "17"
+        },
+        {
+            "source": "Michigan State",
+            "target": "Missouri",
+            "win": "13",
+            "loss": "10"
         },
         {
             "source": "Minnesota",
@@ -867,10 +1395,40 @@
             "loss": "9"
         },
         {
-            "source": "Mississippi",
+            "source": "Ole Miss",
             "target": "Vanderbilt",
             "win": "12",
             "loss": "7"
+        },
+        {
+            "source": "Nevada-Las Vegas",
+            "target": "North Texas",
+            "win": "38",
+            "loss": "0"
+        },
+        {
+            "source": "New Mexico",
+            "target": "New Mexico State",
+            "win": "16",
+            "loss": "13"
+        },
+        {
+            "source": "North Carolina State",
+            "target": "SMU",
+            "win": "41",
+            "loss": "0"
+        },
+        {
+            "source": "Notre Dame",
+            "target": "Purdue",
+            "win": "23",
+            "loss": "21"
+        },
+        {
+            "source": "Ohio State",
+            "target": "Miami (OH)",
+            "win": "27",
+            "loss": "16"
         },
         {
             "source": "Oregon",
@@ -879,10 +1437,52 @@
             "loss": "13"
         },
         {
+            "source": "Pitt",
+            "target": "Penn State",
+            "win": "12",
+            "loss": "0"
+        },
+        {
+            "source": "South Carolina",
+            "target": "Eastern Michigan",
+            "win": "41",
+            "loss": "6"
+        },
+        {
+            "source": "Southern Mississippi",
+            "target": "Alabama",
+            "win": "21",
+            "loss": "0"
+        },
+        {
             "source": "Stanford",
             "target": "Texas",
             "win": "27",
             "loss": "24"
+        },
+        {
+            "source": "Temple",
+            "target": "Bowling Green",
+            "win": "31",
+            "loss": "14"
+        },
+        {
+            "source": "Texas A&M",
+            "target": "UTEP",
+            "win": "45",
+            "loss": "17"
+        },
+        {
+            "source": "Texas Christian",
+            "target": "Northwestern",
+            "win": "41",
+            "loss": "14"
+        },
+        {
+            "source": "Texas Tech",
+            "target": "Louisiana",
+            "win": "26",
+            "loss": "0"
         },
         {
             "source": "Tulsa",
@@ -903,10 +1503,28 @@
             "loss": "10"
         },
         {
+            "source": "Virginia Tech",
+            "target": "Rutgers",
+            "win": "49",
+            "loss": "0"
+        },
+        {
             "source": "Washington",
             "target": "Colorado",
             "win": "17",
             "loss": "14"
+        },
+        {
+            "source": "Washington State",
+            "target": "Utah",
+            "win": "38",
+            "loss": "21"
+        },
+        {
+            "source": "West Virginia",
+            "target": "Maryland",
+            "win": "30",
+            "loss": "17"
         },
         {
             "source": "Wisconsin",
@@ -915,9 +1533,39 @@
             "loss": "25"
         },
         {
+            "source": "Wyoming",
+            "target": "Central Michigan",
+            "win": "31",
+            "loss": "10"
+        },
+        {
+            "source": "North Carolina State",
+            "target": "Georgia Tech",
+            "win": "30",
+            "loss": "23"
+        },
+        {
+            "source": "Air Force",
+            "target": "Utah",
+            "win": "23",
+            "loss": "14"
+        },
+        {
             "source": "Akron",
             "target": "Ohio",
             "win": "23",
+            "loss": "20"
+        },
+        {
+            "source": "UAB",
+            "target": "LSU",
+            "win": "13",
+            "loss": "10"
+        },
+        {
+            "source": "Arizona State",
+            "target": "Utah State",
+            "win": "44",
             "loss": "20"
         },
         {
@@ -927,10 +1575,52 @@
             "loss": "21"
         },
         {
+            "source": "Auburn",
+            "target": "Northern Illinois",
+            "win": "31",
+            "loss": "14"
+        },
+        {
+            "source": "Baylor",
+            "target": "South Florida",
+            "win": "28",
+            "loss": "13"
+        },
+        {
+            "source": "Boise State",
+            "target": "Central Michigan",
+            "win": "47",
+            "loss": "10"
+        },
+        {
+            "source": "Boston College",
+            "target": "Navy",
+            "win": "48",
+            "loss": "7"
+        },
+        {
+            "source": "BYU",
+            "target": "Nevada-Las Vegas",
+            "win": "10",
+            "loss": "7"
+        },
+        {
+            "source": "Buffalo",
+            "target": "Bowling Green",
+            "win": "20",
+            "loss": "17"
+        },
+        {
             "source": "Clemson",
             "target": "Virginia",
             "win": "31",
             "loss": "10"
+        },
+        {
+            "source": "East Carolina",
+            "target": "Syracuse",
+            "win": "34",
+            "loss": "17"
         },
         {
             "source": "Florida",
@@ -939,10 +1629,46 @@
             "loss": "31"
         },
         {
+            "source": "Florida State",
+            "target": "Louisville",
+            "win": "31",
+            "loss": "0"
+        },
+        {
+            "source": "Fresno State",
+            "target": "California",
+            "win": "17",
+            "loss": "3"
+        },
+        {
+            "source": "Georgia",
+            "target": "New Mexico State",
+            "win": "37",
+            "loss": "0"
+        },
+        {
+            "source": "Idaho",
+            "target": "Washington State",
+            "win": "38",
+            "loss": "34"
+        },
+        {
             "source": "Indiana",
             "target": "Cincinnati",
             "win": "42",
             "loss": "6"
+        },
+        {
+            "source": "Kansas State",
+            "target": "North Texas",
+            "win": "55",
+            "loss": "10"
+        },
+        {
+            "source": "Maryland",
+            "target": "Middle Tennessee State",
+            "win": "45",
+            "loss": "27"
         },
         {
             "source": "Memphis",
@@ -951,10 +1677,28 @@
             "loss": "16"
         },
         {
+            "source": "Miami (FL)",
+            "target": "West Virginia",
+            "win": "47",
+            "loss": "10"
+        },
+        {
+            "source": "Miami (OH)",
+            "target": "Kent State",
+            "win": "45",
+            "loss": "14"
+        },
+        {
             "source": "Michigan",
             "target": "Illinois",
             "win": "35",
             "loss": "31"
+        },
+        {
+            "source": "Michigan State",
+            "target": "Notre Dame",
+            "win": "27",
+            "loss": "21"
         },
         {
             "source": "Nebraska",
@@ -969,10 +1713,22 @@
             "loss": "28"
         },
         {
+            "source": "North Carolina",
+            "target": "Marshall",
+            "win": "20",
+            "loss": "15"
+        },
+        {
             "source": "Northwestern",
             "target": "Wisconsin",
             "win": "47",
             "loss": "44"
+        },
+        {
+            "source": "Ohio State",
+            "target": "Penn State",
+            "win": "45",
+            "loss": "6"
         },
         {
             "source": "Oklahoma",
@@ -987,7 +1743,13 @@
             "loss": "10"
         },
         {
-            "source": "Pittsburgh",
+            "source": "Oregon State",
+            "target": "San Diego State",
+            "win": "35",
+            "loss": "3"
+        },
+        {
+            "source": "Pitt",
             "target": "Rutgers",
             "win": "29",
             "loss": "17"
@@ -999,16 +1761,106 @@
             "loss": "24"
         },
         {
+            "source": "South Carolina",
+            "target": "Mississippi State",
+            "win": "23",
+            "loss": "19"
+        },
+        {
+            "source": "USC",
+            "target": "San Jose State",
+            "win": "34",
+            "loss": "24"
+        },
+        {
+            "source": "Southern Mississippi",
+            "target": "Oklahoma State",
+            "win": "28",
+            "loss": "6"
+        },
+        {
+            "source": "Temple",
+            "target": "Eastern Michigan",
+            "win": "49",
+            "loss": "40"
+        },
+        {
+            "source": "Tennessee",
+            "target": "Louisiana-Monroe",
+            "win": "70",
+            "loss": "3"
+        },
+        {
             "source": "Texas",
             "target": "Houston",
             "win": "48",
             "loss": "0"
         },
         {
+            "source": "Texas Christian",
+            "target": "Arkansas State",
+            "win": "52",
+            "loss": "3"
+        },
+        {
+            "source": "UTEP",
+            "target": "Hawaii",
+            "win": "39",
+            "loss": "7"
+        },
+        {
+            "source": "Tulane",
+            "target": "SMU",
+            "win": "29",
+            "loss": "17"
+        },
+        {
+            "source": "Tulsa",
+            "target": "Louisiana Tech",
+            "win": "22",
+            "loss": "10"
+        },
+        {
             "source": "Vanderbilt",
             "target": "Duke",
             "win": "26",
             "loss": "7"
+        },
+        {
+            "source": "Western Michigan",
+            "target": "Toledo",
+            "win": "21",
+            "loss": "14"
+        },
+        {
+            "source": "Florida State",
+            "target": "Maryland",
+            "win": "59",
+            "loss": "7"
+        },
+        {
+            "source": "West Virginia",
+            "target": "Temple",
+            "win": "29",
+            "loss": "24"
+        },
+        {
+            "source": "Akron",
+            "target": "Miami (OH)",
+            "win": "37",
+            "loss": "20"
+        },
+        {
+            "source": "Alabama",
+            "target": "South Carolina",
+            "win": "27",
+            "loss": "17"
+        },
+        {
+            "source": "UAB",
+            "target": "Louisiana",
+            "win": "47",
+            "loss": "2"
         },
         {
             "source": "Arizona",
@@ -1023,10 +1875,28 @@
             "loss": "0"
         },
         {
+            "source": "Bowling Green",
+            "target": "Kent State",
+            "win": "18",
+            "loss": "11"
+        },
+        {
+            "source": "UCF",
+            "target": "Eastern Michigan",
+            "win": "31",
+            "loss": "10"
+        },
+        {
             "source": "Clemson",
             "target": "Duke",
             "win": "52",
             "loss": "22"
+        },
+        {
+            "source": "Colorado State",
+            "target": "Nevada",
+            "win": "45",
+            "loss": "14"
         },
         {
             "source": "Georgia",
@@ -1035,10 +1905,40 @@
             "loss": "7"
         },
         {
+            "source": "Georgia Tech",
+            "target": "North Carolina",
+            "win": "42",
+            "loss": "28"
+        },
+        {
+            "source": "Houston",
+            "target": "SMU",
+            "win": "17",
+            "loss": "15"
+        },
+        {
             "source": "Indiana",
             "target": "Iowa",
             "win": "45",
             "loss": "33"
+        },
+        {
+            "source": "Iowa State",
+            "target": "Baylor",
+            "win": "31",
+            "loss": "17"
+        },
+        {
+            "source": "Kansas State",
+            "target": "Colorado",
+            "win": "44",
+            "loss": "21"
+        },
+        {
+            "source": "LSU",
+            "target": "Tennessee",
+            "win": "38",
+            "loss": "31"
         },
         {
             "source": "Louisville",
@@ -1053,6 +1953,12 @@
             "loss": "14"
         },
         {
+            "source": "Miami (FL)",
+            "target": "Rutgers",
+            "win": "64",
+            "loss": "6"
+        },
+        {
             "source": "Michigan",
             "target": "Wisconsin",
             "win": "13",
@@ -1065,16 +1971,46 @@
             "loss": "10"
         },
         {
-            "source": "Mississippi",
+            "source": "Ole Miss",
             "target": "Kentucky",
             "win": "35",
             "loss": "17"
+        },
+        {
+            "source": "Mississippi State",
+            "target": "Florida",
+            "win": "47",
+            "loss": "35"
         },
         {
             "source": "Nebraska",
             "target": "Missouri",
             "win": "42",
             "loss": "24"
+        },
+        {
+            "source": "Nevada-Las Vegas",
+            "target": "Air Force",
+            "win": "34",
+            "loss": "13"
+        },
+        {
+            "source": "New Mexico",
+            "target": "Wyoming",
+            "win": "45",
+            "loss": "10"
+        },
+        {
+            "source": "Northern Illinois",
+            "target": "Ball State",
+            "win": "43",
+            "loss": "14"
+        },
+        {
+            "source": "Northwestern",
+            "target": "Michigan State",
+            "win": "37",
+            "loss": "17"
         },
         {
             "source": "Oklahoma",
@@ -1089,6 +2025,66 @@
             "loss": "16"
         },
         {
+            "source": "Oregon State",
+            "target": "USC",
+            "win": "31",
+            "loss": "21"
+        },
+        {
+            "source": "Penn State",
+            "target": "Purdue",
+            "win": "22",
+            "loss": "20"
+        },
+        {
+            "source": "San Jose State",
+            "target": "Rice",
+            "win": "29",
+            "loss": "16"
+        },
+        {
+            "source": "Southern Mississippi",
+            "target": "Memphis",
+            "win": "24",
+            "loss": "3"
+        },
+        {
+            "source": "Syracuse",
+            "target": "BYU",
+            "win": "42",
+            "loss": "14"
+        },
+        {
+            "source": "Texas",
+            "target": "Oklahoma State",
+            "win": "42",
+            "loss": "7"
+        },
+        {
+            "source": "Texas A&M",
+            "target": "Texas Tech",
+            "win": "33",
+            "loss": "15"
+        },
+        {
+            "source": "Texas Christian",
+            "target": "Navy",
+            "win": "24",
+            "loss": "0"
+        },
+        {
+            "source": "UTEP",
+            "target": "New Mexico State",
+            "win": "41",
+            "loss": "31"
+        },
+        {
+            "source": "Toledo",
+            "target": "Central Michigan",
+            "win": "41",
+            "loss": "0"
+        },
+        {
             "source": "Tulane",
             "target": "Cincinnati",
             "win": "24",
@@ -1101,10 +2097,130 @@
             "loss": "14"
         },
         {
+            "source": "UCLA",
+            "target": "Arizona State",
+            "win": "38",
+            "loss": "31"
+        },
+        {
+            "source": "Utah",
+            "target": "Utah State",
+            "win": "35",
+            "loss": "14"
+        },
+        {
+            "source": "Virginia",
+            "target": "Wake Forest",
+            "win": "27",
+            "loss": "10"
+        },
+        {
+            "source": "Virginia Tech",
+            "target": "Boston College",
+            "win": "48",
+            "loss": "34"
+        },
+        {
+            "source": "Washington State",
+            "target": "California",
+            "win": "21",
+            "loss": "17"
+        },
+        {
+            "source": "Western Michigan",
+            "target": "Ohio",
+            "win": "23",
+            "loss": "10"
+        },
+        {
+            "source": "Fresno State",
+            "target": "Rice",
+            "win": "27",
+            "loss": "24"
+        },
+        {
+            "source": "Western Michigan",
+            "target": "Marshall",
+            "win": "30",
+            "loss": "10"
+        },
+        {
+            "source": "BYU",
+            "target": "Utah State",
+            "win": "38",
+            "loss": "14"
+        },
+        {
+            "source": "Air Force",
+            "target": "Navy",
+            "win": "27",
+            "loss": "13"
+        },
+        {
+            "source": "Akron",
+            "target": "Bowling Green",
+            "win": "27",
+            "loss": "21"
+        },
+        {
+            "source": "Arizona",
+            "target": "USC",
+            "win": "31",
+            "loss": "15"
+        },
+        {
+            "source": "Arizona State",
+            "target": "California",
+            "win": "30",
+            "loss": "10"
+        },
+        {
+            "source": "Arkansas",
+            "target": "Louisiana-Monroe",
+            "win": "52",
+            "loss": "6"
+        },
+        {
+            "source": "Ball State",
+            "target": "Miami (OH)",
+            "win": "15",
+            "loss": "10"
+        },
+        {
+            "source": "Boston College",
+            "target": "Connecticut",
+            "win": "55",
+            "loss": "3"
+        },
+        {
             "source": "Cincinnati",
             "target": "Houston",
             "win": "48",
             "loss": "31"
+        },
+        {
+            "source": "Clemson",
+            "target": "North Carolina State",
+            "win": "34",
+            "loss": "27"
+        },
+        {
+            "source": "Colorado",
+            "target": "Texas A&M",
+            "win": "26",
+            "loss": "19"
+        },
+        {
+            "source": "Colorado State",
+            "target": "New Mexico",
+            "win": "17",
+            "loss": "14"
+        },
+        {
+            "source": "Florida",
+            "target": "LSU",
+            "win": "41",
+            "loss": "9"
         },
         {
             "source": "Georgia",
@@ -1113,16 +2229,118 @@
             "loss": "10"
         },
         {
+            "source": "Iowa",
+            "target": "Michigan State",
+            "win": "21",
+            "loss": "16"
+        },
+        {
+            "source": "Kansas State",
+            "target": "Kansas",
+            "win": "52",
+            "loss": "13"
+        },
+        {
+            "source": "Kent State",
+            "target": "Central Michigan",
+            "win": "24",
+            "loss": "21"
+        },
+        {
+            "source": "Louisville",
+            "target": "UAB",
+            "win": "38",
+            "loss": "17"
+        },
+        {
+            "source": "Memphis",
+            "target": "East Carolina",
+            "win": "17",
+            "loss": "10"
+        },
+        {
+            "source": "Miami (FL)",
+            "target": "Florida State",
+            "win": "27",
+            "loss": "24"
+        },
+        {
+            "source": "Middle Tennessee State",
+            "target": "Louisiana Tech",
+            "win": "49",
+            "loss": "21"
+        },
+        {
+            "source": "Minnesota",
+            "target": "Penn State",
+            "win": "25",
+            "loss": "16"
+        },
+        {
+            "source": "Ole Miss",
+            "target": "Arkansas State",
+            "win": "35",
+            "loss": "10"
+        },
+        {
+            "source": "Mississippi State",
+            "target": "Auburn",
+            "win": "17",
+            "loss": "10"
+        },
+        {
+            "source": "Missouri",
+            "target": "Oklahoma State",
+            "win": "24",
+            "loss": "10"
+        },
+        {
+            "source": "Nebraska",
+            "target": "Iowa State",
+            "win": "49",
+            "loss": "27"
+        },
+        {
+            "source": "Nevada-Las Vegas",
+            "target": "Nevada",
+            "win": "38",
+            "loss": "7"
+        },
+        {
+            "source": "New Mexico State",
+            "target": "Army",
+            "win": "42",
+            "loss": "23"
+        },
+        {
+            "source": "Northern Illinois",
+            "target": "UCF",
+            "win": "40",
+            "loss": "20"
+        },
+        {
             "source": "Northwestern",
             "target": "Indiana",
             "win": "52",
             "loss": "33"
         },
         {
+            "source": "Notre Dame",
+            "target": "Stanford",
+            "win": "20",
+            "loss": "14"
+        },
+        {
             "source": "Ohio",
             "target": "Buffalo",
             "win": "42",
             "loss": "20"
+        },
+        {
+            "source": "Ohio State",
+            "target": "Wisconsin",
+            "win": "23",
+            "loss": "7"
         },
         {
             "source": "Oklahoma",
@@ -1137,10 +2355,70 @@
             "loss": "31"
         },
         {
+            "source": "San Diego State",
+            "target": "Wyoming",
+            "win": "34",
+            "loss": "0"
+        },
+        {
+            "source": "San Jose State",
+            "target": "SMU",
+            "win": "35",
+            "loss": "10"
+        },
+        {
+            "source": "South Carolina",
+            "target": "Kentucky",
+            "win": "20",
+            "loss": "17"
+        },
+        {
+            "source": "Southern Mississippi",
+            "target": "South Florida",
+            "win": "41",
+            "loss": "7"
+        },
+        {
             "source": "Syracuse",
-            "target": "Pittsburgh",
+            "target": "Pitt",
             "win": "24",
             "loss": "17"
+        },
+        {
+            "source": "Texas Christian",
+            "target": "Hawaii",
+            "win": "41",
+            "loss": "21"
+        },
+        {
+            "source": "Texas Tech",
+            "target": "Baylor",
+            "win": "28",
+            "loss": "0"
+        },
+        {
+            "source": "UTEP",
+            "target": "Tulsa",
+            "win": "40",
+            "loss": "7"
+        },
+        {
+            "source": "Toledo",
+            "target": "Eastern Michigan",
+            "win": "42",
+            "loss": "14"
+        },
+        {
+            "source": "Tulane",
+            "target": "Louisiana",
+            "win": "38",
+            "loss": "37"
+        },
+        {
+            "source": "Vanderbilt",
+            "target": "Wake Forest",
+            "win": "17",
+            "loss": "10"
         },
         {
             "source": "Virginia",
@@ -1149,10 +2427,70 @@
             "loss": "23"
         },
         {
+            "source": "Virginia Tech",
+            "target": "Temple",
+            "win": "35",
+            "loss": "13"
+        },
+        {
+            "source": "Washington",
+            "target": "Oregon State",
+            "win": "33",
+            "loss": "30"
+        },
+        {
+            "source": "Washington State",
+            "target": "Boise State",
+            "win": "42",
+            "loss": "35"
+        },
+        {
+            "source": "West Virginia",
+            "target": "Idaho",
+            "win": "28",
+            "loss": "16"
+        },
+        {
+            "source": "Virginia Tech",
+            "target": "West Virginia",
+            "win": "48",
+            "loss": "20"
+        },
+        {
+            "source": "Air Force",
+            "target": "Wyoming",
+            "win": "51",
+            "loss": "34"
+        },
+        {
             "source": "Alabama",
-            "target": "Mississippi",
+            "target": "Ole Miss",
             "win": "45",
             "loss": "7"
+        },
+        {
+            "source": "UAB",
+            "target": "Memphis",
+            "win": "13",
+            "loss": "9"
+        },
+        {
+            "source": "Arizona",
+            "target": "Washington State",
+            "win": "53",
+            "loss": "47"
+        },
+        {
+            "source": "Ball State",
+            "target": "Eastern Michigan",
+            "win": "33",
+            "loss": "14"
+        },
+        {
+            "source": "Boston College",
+            "target": "Syracuse",
+            "win": "20",
+            "loss": "13"
         },
         {
             "source": "California",
@@ -1167,10 +2505,34 @@
             "loss": "14"
         },
         {
+            "source": "Colorado State",
+            "target": "Nevada-Las Vegas",
+            "win": "20",
+            "loss": "19"
+        },
+        {
+            "source": "East Carolina",
+            "target": "Army",
+            "win": "42",
+            "loss": "21"
+        },
+        {
             "source": "Florida",
             "target": "Auburn",
             "win": "38",
             "loss": "7"
+        },
+        {
+            "source": "Florida State",
+            "target": "Duke",
+            "win": "63",
+            "loss": "14"
+        },
+        {
+            "source": "Fresno State",
+            "target": "Nevada",
+            "win": "58",
+            "loss": "21"
         },
         {
             "source": "Georgia",
@@ -1179,10 +2541,34 @@
             "loss": "19"
         },
         {
+            "source": "Georgia Tech",
+            "target": "Wake Forest",
+            "win": "52",
+            "loss": "20"
+        },
+        {
+            "source": "Hawaii",
+            "target": "SMU",
+            "win": "30",
+            "loss": "15"
+        },
+        {
+            "source": "Idaho",
+            "target": "Arkansas State",
+            "win": "42",
+            "loss": "25"
+        },
+        {
             "source": "Illinois",
             "target": "Iowa",
             "win": "31",
             "loss": "0"
+        },
+        {
+            "source": "Iowa State",
+            "target": "Oklahoma State",
+            "win": "33",
+            "loss": "26"
         },
         {
             "source": "Kansas",
@@ -1191,10 +2577,28 @@
             "loss": "17"
         },
         {
+            "source": "LSU",
+            "target": "Kentucky",
+            "win": "34",
+            "loss": "0"
+        },
+        {
+            "source": "Louisiana Tech",
+            "target": "Louisiana",
+            "win": "48",
+            "loss": "14"
+        },
+        {
             "source": "Louisville",
             "target": "Cincinnati",
             "win": "38",
             "loss": "24"
+        },
+        {
+            "source": "Miami (OH)",
+            "target": "Bowling Green",
+            "win": "24",
+            "loss": "10"
         },
         {
             "source": "Michigan",
@@ -1203,10 +2607,88 @@
             "loss": "0"
         },
         {
+            "source": "Middle Tennessee State",
+            "target": "Louisiana-Monroe",
+            "win": "28",
+            "loss": "0"
+        },
+        {
+            "source": "Minnesota",
+            "target": "Ohio State",
+            "win": "29",
+            "loss": "17"
+        },
+        {
+            "source": "Nebraska",
+            "target": "Texas Tech",
+            "win": "56",
+            "loss": "3"
+        },
+        {
+            "source": "New Mexico State",
+            "target": "Tulsa",
+            "win": "42",
+            "loss": "28"
+        },
+        {
+            "source": "North Carolina State",
+            "target": "North Carolina",
+            "win": "38",
+            "loss": "20"
+        },
+        {
+            "source": "Northern Illinois",
+            "target": "Akron",
+            "win": "52",
+            "loss": "35"
+        },
+        {
+            "source": "Notre Dame",
+            "target": "Navy",
+            "win": "45",
+            "loss": "14"
+        },
+        {
+            "source": "Ohio",
+            "target": "Kent State",
+            "win": "44",
+            "loss": "7"
+        },
+        {
+            "source": "Oklahoma",
+            "target": "Kansas State",
+            "win": "41",
+            "loss": "31"
+        },
+        {
+            "source": "Oregon",
+            "target": "USC",
+            "win": "28",
+            "loss": "17"
+        },
+        {
+            "source": "Oregon State",
+            "target": "Stanford",
+            "win": "38",
+            "loss": "6"
+        },
+        {
             "source": "Purdue",
             "target": "Northwestern",
             "win": "41",
             "loss": "28"
+        },
+        {
+            "source": "South Carolina",
+            "target": "Arkansas",
+            "win": "27",
+            "loss": "7"
+        },
+        {
+            "source": "Southern Mississippi",
+            "target": "Tulane",
+            "win": "56",
+            "loss": "24"
         },
         {
             "source": "Temple",
@@ -1221,15 +2703,111 @@
             "loss": "14"
         },
         {
+            "source": "Texas A&M",
+            "target": "Baylor",
+            "win": "24",
+            "loss": "0"
+        },
+        {
+            "source": "UTEP",
+            "target": "San Jose State",
+            "win": "47",
+            "loss": "30"
+        },
+        {
             "source": "Toledo",
             "target": "Marshall",
             "win": "42",
             "loss": "0"
         },
         {
+            "source": "Utah",
+            "target": "San Diego State",
+            "win": "21",
+            "loss": "7"
+        },
+        {
+            "source": "Utah State",
+            "target": "North Texas",
+            "win": "17",
+            "loss": "12"
+        },
+        {
+            "source": "Washington",
+            "target": "Arizona State",
+            "win": "21",
+            "loss": "15"
+        },
+        {
+            "source": "Wisconsin",
+            "target": "Michigan State",
+            "win": "17",
+            "loss": "10"
+        },
+        {
+            "source": "East Carolina",
+            "target": "Louisville",
+            "win": "28",
+            "loss": "25"
+        },
+        {
+            "source": "UAB",
+            "target": "Middle Tennessee State",
+            "win": "14",
+            "loss": "9"
+        },
+        {
+            "source": "Arizona State",
+            "target": "Washington State",
+            "win": "23",
+            "loss": "20"
+        },
+        {
             "source": "Army",
             "target": "Tulane",
             "win": "21",
+            "loss": "17"
+        },
+        {
+            "source": "Auburn",
+            "target": "Louisiana Tech",
+            "win": "38",
+            "loss": "28"
+        },
+        {
+            "source": "Ball State",
+            "target": "Buffalo",
+            "win": "44",
+            "loss": "35"
+        },
+        {
+            "source": "Boise State",
+            "target": "North Texas",
+            "win": "59",
+            "loss": "0"
+        },
+        {
+            "source": "Bowling Green",
+            "target": "Eastern Michigan",
+            "win": "20",
+            "loss": "6"
+        },
+        {
+            "source": "UCF",
+            "target": "Louisiana-Monroe",
+            "win": "55",
+            "loss": "0"
+        },
+        {
+            "source": "Clemson",
+            "target": "North Carolina",
+            "win": "38",
+            "loss": "24"
+        },
+        {
+            "source": "Colorado State",
+            "target": "Utah",
+            "win": "24",
             "loss": "17"
         },
         {
@@ -1239,10 +2817,22 @@
             "loss": "35"
         },
         {
+            "source": "Florida State",
+            "target": "Virginia",
+            "win": "37",
+            "loss": "3"
+        },
+        {
             "source": "Georgia",
             "target": "Kentucky",
             "win": "34",
             "loss": "30"
+        },
+        {
+            "source": "Georgia Tech",
+            "target": "Duke",
+            "win": "45",
+            "loss": "10"
         },
         {
             "source": "Houston",
@@ -1263,16 +2853,106 @@
             "loss": "15"
         },
         {
+            "source": "Kansas State",
+            "target": "Texas Tech",
+            "win": "28",
+            "loss": "23"
+        },
+        {
+            "source": "LSU",
+            "target": "Mississippi State",
+            "win": "45",
+            "loss": "38"
+        },
+        {
+            "source": "Marshall",
+            "target": "Kent State",
+            "win": "34",
+            "loss": "12"
+        },
+        {
+            "source": "Maryland",
+            "target": "Wake Forest",
+            "win": "37",
+            "loss": "7"
+        },
+        {
+            "source": "Miami (FL)",
+            "target": "Temple",
+            "win": "45",
+            "loss": "17"
+        },
+        {
+            "source": "Michigan",
+            "target": "Michigan State",
+            "win": "14",
+            "loss": "0"
+        },
+        {
             "source": "Nebraska",
             "target": "Baylor",
             "win": "59",
             "loss": "0"
         },
         {
+            "source": "Nevada-Las Vegas",
+            "target": "Wyoming",
+            "win": "42",
+            "loss": "23"
+        },
+        {
+            "source": "New Mexico",
+            "target": "Air Force",
+            "win": "29",
+            "loss": "23"
+        },
+        {
+            "source": "New Mexico State",
+            "target": "Arkansas State",
+            "win": "35",
+            "loss": "29"
+        },
+        {
+            "source": "Notre Dame",
+            "target": "West Virginia",
+            "win": "42",
+            "loss": "28"
+        },
+        {
+            "source": "Ohio",
+            "target": "Central Michigan",
+            "win": "52",
+            "loss": "3"
+        },
+        {
+            "source": "Ohio State",
+            "target": "Iowa",
+            "win": "38",
+            "loss": "10"
+        },
+        {
             "source": "Oregon",
             "target": "Arizona",
             "win": "14",
             "loss": "10"
+        },
+        {
+            "source": "Oregon State",
+            "target": "UCLA",
+            "win": "44",
+            "loss": "38"
+        },
+        {
+            "source": "Penn State",
+            "target": "Illinois",
+            "win": "39",
+            "loss": "25"
+        },
+        {
+            "source": "Pitt",
+            "target": "Boston College",
+            "win": "42",
+            "loss": "26"
         },
         {
             "source": "Purdue",
@@ -1293,6 +2973,30 @@
             "loss": "21"
         },
         {
+            "source": "San Diego State",
+            "target": "BYU",
+            "win": "16",
+            "loss": "15"
+        },
+        {
+            "source": "San Jose State",
+            "target": "Nevada",
+            "win": "49",
+            "loss": "30"
+        },
+        {
+            "source": "South Carolina",
+            "target": "Vanderbilt",
+            "win": "30",
+            "loss": "14"
+        },
+        {
+            "source": "Stanford",
+            "target": "USC",
+            "win": "32",
+            "loss": "30"
+        },
+        {
             "source": "Tennessee",
             "target": "Alabama",
             "win": "20",
@@ -1305,10 +3009,58 @@
             "loss": "12"
         },
         {
+            "source": "Texas A&M",
+            "target": "Iowa State",
+            "win": "30",
+            "loss": "7"
+        },
+        {
+            "source": "Texas Christian",
+            "target": "Tulsa",
+            "win": "17",
+            "loss": "3"
+        },
+        {
+            "source": "UTEP",
+            "target": "Fresno State",
+            "win": "23",
+            "loss": "13"
+        },
+        {
+            "source": "Utah State",
+            "target": "Idaho",
+            "win": "31",
+            "loss": "14"
+        },
+        {
+            "source": "Virginia Tech",
+            "target": "Syracuse",
+            "win": "22",
+            "loss": "14"
+        },
+        {
             "source": "Washington",
             "target": "California",
             "win": "36",
             "loss": "24"
+        },
+        {
+            "source": "Western Michigan",
+            "target": "Northern Illinois",
+            "win": "52",
+            "loss": "22"
+        },
+        {
+            "source": "BYU",
+            "target": "Wyoming",
+            "win": "19",
+            "loss": "7"
+        },
+        {
+            "source": "UAB",
+            "target": "East Carolina",
+            "win": "16",
+            "loss": "13"
         },
         {
             "source": "Auburn",
@@ -1317,10 +3069,82 @@
             "loss": "19"
         },
         {
+            "source": "Ball State",
+            "target": "Central Michigan",
+            "win": "38",
+            "loss": "34"
+        },
+        {
+            "source": "Boise State",
+            "target": "New Mexico State",
+            "win": "34",
+            "loss": "31"
+        },
+        {
+            "source": "Boston College",
+            "target": "Rutgers",
+            "win": "42",
+            "loss": "13"
+        },
+        {
+            "source": "California",
+            "target": "USC",
+            "win": "28",
+            "loss": "16"
+        },
+        {
+            "source": "UCF",
+            "target": "Alabama",
+            "win": "40",
+            "loss": "38"
+        },
+        {
+            "source": "Cincinnati",
+            "target": "Miami (OH)",
+            "win": "45",
+            "loss": "15"
+        },
+        {
+            "source": "Colorado",
+            "target": "Oklahoma State",
+            "win": "37",
+            "loss": "21"
+        },
+        {
+            "source": "Colorado State",
+            "target": "San Diego State",
+            "win": "34",
+            "loss": "22"
+        },
+        {
             "source": "Florida",
             "target": "Georgia",
             "win": "34",
             "loss": "23"
+        },
+        {
+            "source": "Florida State",
+            "target": "North Carolina State",
+            "win": "58",
+            "loss": "14"
+        },
+        {
+            "source": "Fresno State",
+            "target": "Tulsa",
+            "win": "34",
+            "loss": "12"
+        },
+        {
+            "source": "Georgia Tech",
+            "target": "Clemson",
+            "win": "31",
+            "loss": "28"
+        },
+        {
+            "source": "Iowa State",
+            "target": "Missouri",
+            "win": "39",
+            "loss": "20"
         },
         {
             "source": "Louisville",
@@ -1341,10 +3165,58 @@
             "loss": "9"
         },
         {
+            "source": "Miami (FL)",
+            "target": "Louisiana Tech",
+            "win": "42",
+            "loss": "31"
+        },
+        {
+            "source": "Michigan State",
+            "target": "Illinois",
+            "win": "14",
+            "loss": "10"
+        },
+        {
+            "source": "Ole Miss",
+            "target": "Nevada-Las Vegas",
+            "win": "43",
+            "loss": "40"
+        },
+        {
+            "source": "Mississippi State",
+            "target": "Middle Tennessee State",
+            "win": "61",
+            "loss": "35"
+        },
+        {
+            "source": "New Mexico",
+            "target": "Utah",
+            "win": "10",
+            "loss": "3"
+        },
+        {
+            "source": "North Texas",
+            "target": "Louisiana",
+            "win": "13",
+            "loss": "0"
+        },
+        {
+            "source": "Northern Illinois",
+            "target": "Buffalo",
+            "win": "73",
+            "loss": "10"
+        },
+        {
             "source": "Northwestern",
             "target": "Minnesota",
             "win": "41",
             "loss": "35"
+        },
+        {
+            "source": "Notre Dame",
+            "target": "Air Force",
+            "win": "34",
+            "loss": "31"
         },
         {
             "source": "Oklahoma",
@@ -1353,10 +3225,82 @@
             "loss": "14"
         },
         {
+            "source": "Oregon",
+            "target": "Arizona State",
+            "win": "56",
+            "loss": "55"
+        },
+        {
+            "source": "Oregon State",
+            "target": "Washington State",
+            "win": "38",
+            "loss": "9"
+        },
+        {
+            "source": "Penn State",
+            "target": "Indiana",
+            "win": "27",
+            "loss": "24"
+        },
+        {
+            "source": "Purdue",
+            "target": "Ohio State",
+            "win": "31",
+            "loss": "27"
+        },
+        {
+            "source": "San Jose State",
+            "target": "Hawaii",
+            "win": "57",
+            "loss": "48"
+        },
+        {
+            "source": "South Florida",
+            "target": "Connecticut",
+            "win": "21",
+            "loss": "13"
+        },
+        {
+            "source": "SMU",
+            "target": "Nevada",
+            "win": "21",
+            "loss": "7"
+        },
+        {
+            "source": "Southern Mississippi",
+            "target": "Houston",
+            "win": "6",
+            "loss": "3"
+        },
+        {
+            "source": "Tennessee",
+            "target": "South Carolina",
+            "win": "17",
+            "loss": "14"
+        },
+        {
             "source": "Texas",
             "target": "Baylor",
             "win": "48",
             "loss": "14"
+        },
+        {
+            "source": "Texas A&M",
+            "target": "Kansas State",
+            "win": "26",
+            "loss": "10"
+        },
+        {
+            "source": "Texas Christian",
+            "target": "Rice",
+            "win": "37",
+            "loss": "0"
+        },
+        {
+            "source": "Texas Tech",
+            "target": "Kansas",
+            "win": "45",
+            "loss": "39"
         },
         {
             "source": "Toledo",
@@ -1371,10 +3315,34 @@
             "loss": "24"
         },
         {
+            "source": "Utah State",
+            "target": "Arkansas State",
+            "win": "44",
+            "loss": "31"
+        },
+        {
+            "source": "Virginia",
+            "target": "North Carolina",
+            "win": "17",
+            "loss": "6"
+        },
+        {
+            "source": "Virginia Tech",
+            "target": "Pitt",
+            "win": "37",
+            "loss": "34"
+        },
+        {
             "source": "Washington",
             "target": "Stanford",
             "win": "31",
             "loss": "28"
+        },
+        {
+            "source": "Western Michigan",
+            "target": "Kent State",
+            "win": "42",
+            "loss": "0"
         },
         {
             "source": "Wisconsin",
@@ -1383,10 +3351,58 @@
             "loss": "7"
         },
         {
+            "source": "Colorado State",
+            "target": "BYU",
+            "win": "45",
+            "loss": "21"
+        },
+        {
+            "source": "Air Force",
+            "target": "Army",
+            "win": "41",
+            "loss": "27"
+        },
+        {
+            "source": "Boise State",
+            "target": "Arkansas State",
+            "win": "42",
+            "loss": "14"
+        },
+        {
+            "source": "Boston College",
+            "target": "Temple",
+            "win": "31",
+            "loss": "3"
+        },
+        {
+            "source": "Buffalo",
+            "target": "Kent State",
+            "win": "20",
+            "loss": "17"
+        },
+        {
+            "source": "UCF",
+            "target": "Louisiana Tech",
+            "win": "20",
+            "loss": "16"
+        },
+        {
+            "source": "Cincinnati",
+            "target": "UAB",
+            "win": "33",
+            "loss": "21"
+        },
+        {
             "source": "Colorado",
             "target": "Missouri",
             "win": "28",
             "loss": "18"
+        },
+        {
+            "source": "Eastern Michigan",
+            "target": "Central Michigan",
+            "win": "31",
+            "loss": "15"
         },
         {
             "source": "Florida",
@@ -1395,21 +3411,111 @@
             "loss": "20"
         },
         {
+            "source": "Florida State",
+            "target": "Clemson",
+            "win": "54",
+            "loss": "7"
+        },
+        {
+            "source": "Fresno State",
+            "target": "Hawaii",
+            "win": "45",
+            "loss": "27"
+        },
+        {
+            "source": "Idaho",
+            "target": "North Texas",
+            "win": "16",
+            "loss": "14"
+        },
+        {
             "source": "Illinois",
             "target": "Indiana",
             "win": "42",
             "loss": "35"
         },
         {
-            "source": "Mississippi",
+            "source": "Iowa",
+            "target": "Penn State",
+            "win": "26",
+            "loss": "23"
+        },
+        {
+            "source": "Kansas State",
+            "target": "Iowa State",
+            "win": "56",
+            "loss": "10"
+        },
+        {
+            "source": "Louisiana",
+            "target": "Louisiana-Monroe",
+            "win": "21",
+            "loss": "18"
+        },
+        {
+            "source": "LSU",
+            "target": "Alabama",
+            "win": "30",
+            "loss": "28"
+        },
+        {
+            "source": "Louisville",
+            "target": "Southern Mississippi",
+            "win": "49",
+            "loss": "28"
+        },
+        {
+            "source": "Marshall",
+            "target": "Bowling Green",
+            "win": "20",
+            "loss": "13"
+        },
+        {
+            "source": "Maryland",
+            "target": "North Carolina State",
+            "win": "35",
+            "loss": "28"
+        },
+        {
+            "source": "Miami (FL)",
+            "target": "Virginia Tech",
+            "win": "41",
+            "loss": "21"
+        },
+        {
+            "source": "Miami (OH)",
+            "target": "Ohio",
+            "win": "27",
+            "loss": "24"
+        },
+        {
+            "source": "Middle Tennessee State",
+            "target": "Connecticut",
+            "win": "66",
+            "loss": "10"
+        },
+        {
+            "source": "Ole Miss",
             "target": "Arkansas",
             "win": "38",
             "loss": "24"
         },
         {
+            "source": "Mississippi State",
+            "target": "Kentucky",
+            "win": "35",
+            "loss": "17"
+        },
+        {
             "source": "Nebraska",
             "target": "Kansas",
             "win": "56",
+            "loss": "17"
+        },
+        {
+            "source": "North Carolina",
+            "target": "Pitt",
+            "win": "20",
             "loss": "17"
         },
         {
@@ -1419,16 +3525,88 @@
             "loss": "51"
         },
         {
+            "source": "Ohio State",
+            "target": "Michigan State",
+            "win": "27",
+            "loss": "13"
+        },
+        {
             "source": "Oklahoma",
             "target": "Baylor",
             "win": "56",
             "loss": "7"
         },
         {
+            "source": "Oregon",
+            "target": "Washington State",
+            "win": "27",
+            "loss": "24"
+        },
+        {
+            "source": "Oregon State",
+            "target": "California",
+            "win": "38",
+            "loss": "32"
+        },
+        {
+            "source": "Rice",
+            "target": "SMU",
+            "win": "43",
+            "loss": "14"
+        },
+        {
+            "source": "San Diego State",
+            "target": "New Mexico",
+            "win": "17",
+            "loss": "16"
+        },
+        {
+            "source": "San Jose State",
+            "target": "Texas Christian",
+            "win": "27",
+            "loss": "24"
+        },
+        {
+            "source": "USC",
+            "target": "Arizona State",
+            "win": "44",
+            "loss": "38"
+        },
+        {
+            "source": "Syracuse",
+            "target": "West Virginia",
+            "win": "31",
+            "loss": "27"
+        },
+        {
             "source": "Tennessee",
             "target": "Memphis",
             "win": "19",
             "loss": "17"
+        },
+        {
+            "source": "Texas",
+            "target": "Texas Tech",
+            "win": "29",
+            "loss": "17"
+        },
+        {
+            "source": "Texas A&M",
+            "target": "Oklahoma State",
+            "win": "21",
+            "loss": "16"
+        },
+        {
+            "source": "UTEP",
+            "target": "Nevada",
+            "win": "45",
+            "loss": "22"
+        },
+        {
+            "source": "Toledo",
+            "target": "Northern Illinois",
+            "win": "38",
+            "loss": "24"
         },
         {
             "source": "Tulane",
@@ -1443,10 +3621,34 @@
             "loss": "35"
         },
         {
+            "source": "Utah",
+            "target": "Nevada-Las Vegas",
+            "win": "38",
+            "loss": "16"
+        },
+        {
+            "source": "Utah State",
+            "target": "New Mexico State",
+            "win": "44",
+            "loss": "37"
+        },
+        {
+            "source": "Wake Forest",
+            "target": "Duke",
+            "win": "28",
+            "loss": "26"
+        },
+        {
             "source": "Washington",
             "target": "Arizona",
             "win": "35",
             "loss": "32"
+        },
+        {
+            "source": "Western Michigan",
+            "target": "Ball State",
+            "win": "42",
+            "loss": "3"
         },
         {
             "source": "Wisconsin",
@@ -1455,10 +3657,28 @@
             "loss": "20"
         },
         {
+            "source": "Georgia Tech",
+            "target": "Virginia",
+            "win": "35",
+            "loss": "0"
+        },
+        {
+            "source": "Air Force",
+            "target": "Colorado State",
+            "win": "44",
+            "loss": "40"
+        },
+        {
             "source": "Akron",
             "target": "Buffalo",
             "win": "49",
             "loss": "14"
+        },
+        {
+            "source": "Arkansas State",
+            "target": "North Texas",
+            "win": "53",
+            "loss": "28"
         },
         {
             "source": "Auburn",
@@ -1467,10 +3687,46 @@
             "loss": "26"
         },
         {
+            "source": "Boise State",
+            "target": "Utah State",
+            "win": "66",
+            "loss": "38"
+        },
+        {
+            "source": "Central Michigan",
+            "target": "Western Michigan",
+            "win": "21",
+            "loss": "17"
+        },
+        {
             "source": "Cincinnati",
             "target": "Memphis",
             "win": "13",
             "loss": "10"
+        },
+        {
+            "source": "East Carolina",
+            "target": "Houston",
+            "win": "62",
+            "loss": "20"
+        },
+        {
+            "source": "Eastern Michigan",
+            "target": "Northern Illinois",
+            "win": "39",
+            "loss": "32"
+        },
+        {
+            "source": "Florida",
+            "target": "South Carolina",
+            "win": "41",
+            "loss": "21"
+        },
+        {
+            "source": "Florida State",
+            "target": "Wake Forest",
+            "win": "35",
+            "loss": "6"
         },
         {
             "source": "Hawaii",
@@ -1479,10 +3735,40 @@
             "loss": "17"
         },
         {
+            "source": "Idaho",
+            "target": "New Mexico State",
+            "win": "44",
+            "loss": "41"
+        },
+        {
             "source": "Iowa",
             "target": "Northwestern",
             "win": "27",
             "loss": "17"
+        },
+        {
+            "source": "Iowa State",
+            "target": "Colorado",
+            "win": "35",
+            "loss": "27"
+        },
+        {
+            "source": "Kansas State",
+            "target": "Nebraska",
+            "win": "29",
+            "loss": "28"
+        },
+        {
+            "source": "LSU",
+            "target": "Ole Miss",
+            "win": "20",
+            "loss": "9"
+        },
+        {
+            "source": "Louisiana Tech",
+            "target": "Louisiana-Monroe",
+            "win": "42",
+            "loss": "19"
         },
         {
             "source": "Louisville",
@@ -1491,16 +3777,118 @@
             "loss": "17"
         },
         {
+            "source": "Marshall",
+            "target": "Miami (OH)",
+            "win": "51",
+            "loss": "31"
+        },
+        {
+            "source": "Miami (FL)",
+            "target": "Pitt",
+            "win": "35",
+            "loss": "7"
+        },
+        {
+            "source": "Michigan",
+            "target": "Penn State",
+            "win": "33",
+            "loss": "11"
+        },
+        {
+            "source": "Michigan State",
+            "target": "Purdue",
+            "win": "30",
+            "loss": "10"
+        },
+        {
+            "source": "Middle Tennessee State",
+            "target": "South Florida",
+            "win": "45",
+            "loss": "9"
+        },
+        {
+            "source": "Mississippi State",
+            "target": "Alabama",
+            "win": "29",
+            "loss": "7"
+        },
+        {
             "source": "Missouri",
             "target": "Baylor",
             "win": "47",
             "loss": "22"
         },
         {
+            "source": "Nevada-Las Vegas",
+            "target": "New Mexico",
+            "win": "18",
+            "loss": "14"
+        },
+        {
+            "source": "North Carolina",
+            "target": "Maryland",
+            "win": "13",
+            "loss": "10"
+        },
+        {
+            "source": "North Carolina State",
+            "target": "Duke",
+            "win": "35",
+            "loss": "31"
+        },
+        {
+            "source": "Notre Dame",
+            "target": "Boston College",
+            "win": "28",
+            "loss": "16"
+        },
+        {
+            "source": "Ohio",
+            "target": "Bowling Green",
+            "win": "23",
+            "loss": "21"
+        },
+        {
+            "source": "Ohio State",
+            "target": "Illinois",
+            "win": "24",
+            "loss": "21"
+        },
+        {
+            "source": "Oklahoma",
+            "target": "Texas A&M",
+            "win": "35",
+            "loss": "31"
+        },
+        {
             "source": "Oregon",
             "target": "California",
             "win": "25",
             "loss": "17"
+        },
+        {
+            "source": "Oregon State",
+            "target": "Arizona",
+            "win": "33",
+            "loss": "9"
+        },
+        {
+            "source": "SMU",
+            "target": "Tulsa",
+            "win": "24",
+            "loss": "20"
+        },
+        {
+            "source": "Southern Mississippi",
+            "target": "UAB",
+            "win": "33",
+            "loss": "30"
+        },
+        {
+            "source": "Stanford",
+            "target": "Arizona State",
+            "win": "29",
+            "loss": "7"
         },
         {
             "source": "Syracuse",
@@ -1521,6 +3909,30 @@
             "loss": "16"
         },
         {
+            "source": "Texas Christian",
+            "target": "Fresno State",
+            "win": "24",
+            "loss": "7"
+        },
+        {
+            "source": "Texas Tech",
+            "target": "Oklahoma State",
+            "win": "58",
+            "loss": "0"
+        },
+        {
+            "source": "UTEP",
+            "target": "Rice",
+            "win": "38",
+            "loss": "21"
+        },
+        {
+            "source": "Toledo",
+            "target": "Ball State",
+            "win": "31",
+            "loss": "3"
+        },
+        {
             "source": "Tulane",
             "target": "Navy",
             "win": "50",
@@ -1539,10 +3951,28 @@
             "loss": "20"
         },
         {
+            "source": "Virginia Tech",
+            "target": "UCF",
+            "win": "44",
+            "loss": "21"
+        },
+        {
             "source": "Washington",
             "target": "UCLA",
             "win": "35",
             "loss": "28"
+        },
+        {
+            "source": "Washington State",
+            "target": "USC",
+            "win": "33",
+            "loss": "27"
+        },
+        {
+            "source": "West Virginia",
+            "target": "Rutgers",
+            "win": "31",
+            "loss": "24"
         },
         {
             "source": "Wisconsin",
@@ -1551,22 +3981,142 @@
             "loss": "22"
         },
         {
+            "source": "Colorado State",
+            "target": "Wyoming",
+            "win": "37",
+            "loss": "13"
+        },
+        {
+            "source": "Air Force",
+            "target": "San Diego State",
+            "win": "45",
+            "loss": "24"
+        },
+        {
+            "source": "Akron",
+            "target": "Kent State",
+            "win": "34",
+            "loss": "6"
+        },
+        {
+            "source": "UAB",
+            "target": "Army",
+            "win": "27",
+            "loss": "7"
+        },
+        {
+            "source": "Arkansas",
+            "target": "Mississippi State",
+            "win": "17",
+            "loss": "10"
+        },
+        {
             "source": "Auburn",
             "target": "Alabama",
             "win": "9",
             "loss": "0"
         },
         {
+            "source": "Ball State",
+            "target": "Connecticut",
+            "win": "29",
+            "loss": "0"
+        },
+        {
+            "source": "Boise State",
+            "target": "Idaho",
+            "win": "66",
+            "loss": "24"
+        },
+        {
+            "source": "BYU",
+            "target": "New Mexico",
+            "win": "37",
+            "loss": "13"
+        },
+        {
+            "source": "Cincinnati",
+            "target": "Southern Mississippi",
+            "win": "27",
+            "loss": "24"
+        },
+        {
+            "source": "Clemson",
+            "target": "South Carolina",
+            "win": "16",
+            "loss": "14"
+        },
+        {
+            "source": "Florida State",
+            "target": "Florida",
+            "win": "30",
+            "loss": "7"
+        },
+        {
+            "source": "Fresno State",
+            "target": "SMU",
+            "win": "14",
+            "loss": "7"
+        },
+        {
             "source": "Georgia",
-            "target": "Mississippi",
+            "target": "Ole Miss",
             "win": "32",
             "loss": "14"
+        },
+        {
+            "source": "Georgia Tech",
+            "target": "Maryland",
+            "win": "35",
+            "loss": "22"
+        },
+        {
+            "source": "Hawaii",
+            "target": "Louisiana Tech",
+            "win": "27",
+            "loss": "10"
+        },
+        {
+            "source": "Iowa State",
+            "target": "Kansas",
+            "win": "38",
+            "loss": "17"
+        },
+        {
+            "source": "Kansas State",
+            "target": "Missouri",
+            "win": "28",
+            "loss": "24"
         },
         {
             "source": "Louisville",
             "target": "Houston",
             "win": "32",
             "loss": "13"
+        },
+        {
+            "source": "Miami (FL)",
+            "target": "Syracuse",
+            "win": "26",
+            "loss": "0"
+        },
+        {
+            "source": "Miami (OH)",
+            "target": "Buffalo",
+            "win": "17",
+            "loss": "16"
+        },
+        {
+            "source": "Michigan",
+            "target": "Ohio State",
+            "win": "38",
+            "loss": "26"
+        },
+        {
+            "source": "Middle Tennessee State",
+            "target": "Louisiana",
+            "win": "41",
+            "loss": "38"
         },
         {
             "source": "Minnesota",
@@ -1581,10 +4131,34 @@
             "loss": "28"
         },
         {
+            "source": "North Carolina",
+            "target": "Duke",
+            "win": "59",
+            "loss": "21"
+        },
+        {
+            "source": "North Texas",
+            "target": "New Mexico State",
+            "win": "30",
+            "loss": "23"
+        },
+        {
+            "source": "Northern Illinois",
+            "target": "Central Michigan",
+            "win": "40",
+            "loss": "6"
+        },
+        {
             "source": "Northwestern",
             "target": "Illinois",
             "win": "61",
             "loss": "23"
+        },
+        {
+            "source": "Notre Dame",
+            "target": "Rutgers",
+            "win": "45",
+            "loss": "17"
         },
         {
             "source": "Ohio",
@@ -1593,7 +4167,31 @@
             "loss": "28"
         },
         {
-            "source": "Pittsburgh",
+            "source": "Oklahoma",
+            "target": "Texas Tech",
+            "win": "27",
+            "loss": "13"
+        },
+        {
+            "source": "Oklahoma State",
+            "target": "Baylor",
+            "win": "50",
+            "loss": "22"
+        },
+        {
+            "source": "Oregon State",
+            "target": "Oregon",
+            "win": "23",
+            "loss": "13"
+        },
+        {
+            "source": "Penn State",
+            "target": "Michigan State",
+            "win": "42",
+            "loss": "23"
+        },
+        {
+            "source": "Pitt",
             "target": "Temple",
             "win": "7",
             "loss": "0"
@@ -1603,6 +4201,12 @@
             "target": "Indiana",
             "win": "41",
             "loss": "13"
+        },
+        {
+            "source": "USC",
+            "target": "UCLA",
+            "win": "38",
+            "loss": "35"
         },
         {
             "source": "Stanford",
@@ -1617,16 +4221,154 @@
             "loss": "20"
         },
         {
+            "source": "Texas Christian",
+            "target": "UTEP",
+            "win": "47",
+            "loss": "14"
+        },
+        {
             "source": "Tulane",
             "target": "Memphis",
             "win": "37",
             "loss": "14"
         },
         {
+            "source": "Tulsa",
+            "target": "San Jose State",
+            "win": "28",
+            "loss": "17"
+        },
+        {
+            "source": "Virginia",
+            "target": "North Carolina State",
+            "win": "24",
+            "loss": "17"
+        },
+        {
+            "source": "Wake Forest",
+            "target": "Navy",
+            "win": "49",
+            "loss": "26"
+        },
+        {
+            "source": "Washington",
+            "target": "Washington State",
+            "win": "51",
+            "loss": "3"
+        },
+        {
+            "source": "West Virginia",
+            "target": "East Carolina",
+            "win": "42",
+            "loss": "24"
+        },
+        {
+            "source": "Western Michigan",
+            "target": "Eastern Michigan",
+            "win": "28",
+            "loss": "0"
+        },
+        {
+            "source": "Toledo",
+            "target": "Bowling Green",
+            "win": "51",
+            "loss": "17"
+        },
+        {
+            "source": "Ole Miss",
+            "target": "Mississippi State",
+            "win": "45",
+            "loss": "30"
+        },
+        {
+            "source": "Arizona State",
+            "target": "Arizona",
+            "win": "30",
+            "loss": "17"
+        },
+        {
+            "source": "Arkansas",
+            "target": "LSU",
+            "win": "14",
+            "loss": "3"
+        },
+        {
+            "source": "BYU",
+            "target": "Utah",
+            "win": "34",
+            "loss": "27"
+        },
+        {
+            "source": "East Carolina",
+            "target": "Southern Mississippi",
+            "win": "14",
+            "loss": "9"
+        },
+        {
             "source": "Nebraska",
             "target": "Colorado",
             "win": "34",
             "loss": "32"
+        },
+        {
+            "source": "Pitt",
+            "target": "West Virginia",
+            "win": "38",
+            "loss": "28"
+        },
+        {
+            "source": "Texas",
+            "target": "Texas A&M",
+            "win": "43",
+            "loss": "17"
+        },
+        {
+            "source": "Texas Christian",
+            "target": "SMU",
+            "win": "62",
+            "loss": "7"
+        },
+        {
+            "source": "Fresno State",
+            "target": "San Jose State",
+            "win": "37",
+            "loss": "6"
+        },
+        {
+            "source": "Georgia Tech",
+            "target": "Georgia",
+            "win": "27",
+            "loss": "15"
+        },
+        {
+            "source": "Miami (FL)",
+            "target": "Boston College",
+            "win": "52",
+            "loss": "6"
+        },
+        {
+            "source": "Nevada-Las Vegas",
+            "target": "San Diego State",
+            "win": "31",
+            "loss": "24"
+        },
+        {
+            "source": "North Carolina State",
+            "target": "Wake Forest",
+            "win": "32",
+            "loss": "14"
+        },
+        {
+            "source": "Notre Dame",
+            "target": "USC",
+            "win": "38",
+            "loss": "21"
+        },
+        {
+            "source": "Oklahoma",
+            "target": "Oklahoma State",
+            "win": "12",
+            "loss": "7"
         },
         {
             "source": "Syracuse",
@@ -1647,6 +4389,12 @@
             "loss": "3"
         },
         {
+            "source": "Virginia Tech",
+            "target": "Virginia",
+            "win": "42",
+            "loss": "21"
+        },
+        {
             "source": "Wisconsin",
             "target": "Hawaii",
             "win": "34",
@@ -1659,10 +4407,40 @@
             "loss": "6"
         },
         {
+            "source": "Marshall",
+            "target": "Western Michigan",
+            "win": "19",
+            "loss": "14"
+        },
+        {
             "source": "Navy",
             "target": "Army",
             "win": "30",
             "loss": "28"
+        },
+        {
+            "source": "Nevada-Las Vegas",
+            "target": "Hawaii",
+            "win": "34",
+            "loss": "32"
+        },
+        {
+            "source": "Oklahoma",
+            "target": "Kansas State",
+            "win": "27",
+            "loss": "24"
+        },
+        {
+            "source": "Southern Mississippi",
+            "target": "Texas Christian",
+            "win": "28",
+            "loss": "21"
+        },
+        {
+            "source": "Nevada-Las Vegas",
+            "target": "Arkansas",
+            "win": "31",
+            "loss": "14"
         },
         {
             "source": "Georgia",
@@ -1671,9 +4449,57 @@
             "loss": "14"
         },
         {
+            "source": "Boston College",
+            "target": "Arizona State",
+            "win": "31",
+            "loss": "17"
+        },
+        {
+            "source": "East Carolina",
+            "target": "Texas Tech",
+            "win": "40",
+            "loss": "27"
+        },
+        {
             "source": "Marshall",
             "target": "Cincinnati",
             "win": "25",
+            "loss": "14"
+        },
+        {
+            "source": "Boise State",
+            "target": "UTEP",
+            "win": "38",
+            "loss": "23"
+        },
+        {
+            "source": "Iowa State",
+            "target": "Pitt",
+            "win": "37",
+            "loss": "29"
+        },
+        {
+            "source": "North Carolina State",
+            "target": "Minnesota",
+            "win": "38",
+            "loss": "30"
+        },
+        {
+            "source": "West Virginia",
+            "target": "Ole Miss",
+            "win": "49",
+            "loss": "38"
+        },
+        {
+            "source": "Colorado State",
+            "target": "Louisville",
+            "win": "22",
+            "loss": "17"
+        },
+        {
+            "source": "LSU",
+            "target": "Georgia Tech",
+            "win": "28",
             "loss": "14"
         },
         {
@@ -1695,16 +4521,64 @@
             "loss": "17"
         },
         {
+            "source": "Air Force",
+            "target": "Fresno State",
+            "win": "37",
+            "loss": "34"
+        },
+        {
+            "source": "Mississippi State",
+            "target": "Texas A&M",
+            "win": "43",
+            "loss": "41"
+        },
+        {
+            "source": "Kansas State",
+            "target": "Tennessee",
+            "win": "35",
+            "loss": "21"
+        },
+        {
             "source": "Michigan",
             "target": "Auburn",
             "win": "31",
             "loss": "28"
         },
         {
+            "source": "Oregon State",
+            "target": "Notre Dame",
+            "win": "41",
+            "loss": "9"
+        },
+        {
+            "source": "South Carolina",
+            "target": "Ohio State",
+            "win": "24",
+            "loss": "7"
+        },
+        {
+            "source": "Virginia Tech",
+            "target": "Clemson",
+            "win": "41",
+            "loss": "20"
+        },
+        {
             "source": "Washington",
             "target": "Purdue",
             "win": "34",
             "loss": "24"
+        },
+        {
+            "source": "Miami (FL)",
+            "target": "Florida",
+            "win": "37",
+            "loss": "20"
+        },
+        {
+            "source": "Oklahoma",
+            "target": "Florida State",
+            "win": "13",
+            "loss": "2"
         }
     ]
 }
