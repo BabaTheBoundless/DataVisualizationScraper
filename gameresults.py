@@ -5,24 +5,28 @@ import re
 import json
 import networkx as nx
 from scraper import get_team_record
+from scrapeNodes import scrape_nodes
 import time
 
+
+mismatched_names = set()
+
 def clean_team_name(team_name):
-    team_name = re.sub(f'-', '', team_name) #hyphen
-    team_name = re.sub(r'\s+', '', team_name) #whitespace
+    #team_name = re.sub(f'-', '', team_name) #hyphen
+    #team_name = re.sub(r'\s+', '', team_name) #whitespace
     team_name = re.sub(r'\(\d+\)', '', team_name).strip() #strip ranking
-    if team_name == "Miami(FL)":
-        team_name = "MiamiFlorida"
-    elif team_name == "Miami(OH)":
-        team_name = "MiamiOhio"
-    elif team_name == "KentState":
-        team_name = "Kent"
-    elif team_name == "Texas-El Paso":
-        team_name = "TexasElPaso"
-    elif team_name == "Louisiana": 
-        team_name = "LouisianaLafayette"
-    elif team_name == "BowlingGreen":
-        team_name = "BowlingGreenState"
+    #if team_name == "Miami(FL)":
+    #    team_name = "MiamiFlorida"
+   # elif team_name == "Miami(OH)":
+    #    team_name = "MiamiOhio"
+   # elif team_name == "KentState":
+   #     team_name = "Kent"
+    #elif team_name == "Texas-El Paso":
+ #       team_name = "TexasElPaso"
+  #  elif team_name == "Louisiana": 
+  #      team_name = "LouisianaLafayette"
+  #  elif team_name == "BowlingGreen":
+   #     team_name = "BowlingGreenState"
     
     
 
@@ -31,8 +35,11 @@ def clean_team_name(team_name):
 with open('2000seasonWithWins', 'r') as myjson:
     football_data = json.load(myjson)
 
-fbs_teams = {node["id"] for node in football_data["nodes"]}
-print(fbs_teams)
+with open('scrapeTeams.json', 'r') as nodejson:
+    node_data = json.load(nodejson)
+
+fbs_teams = {node["id"] for node in node_data}
+#print(fbs_teams)
 
 
 def scrape_cfb_results():
@@ -47,7 +54,7 @@ def scrape_cfb_results():
     #extract table rows
     rows = table.find_all('tr')[1:]  #skip the header row
     #print(rows)
-
+    
     data = []
     for row in rows:
         cols = row.find_all('td')
@@ -62,21 +69,25 @@ def scrape_cfb_results():
         winner = clean_team_name(cols[3].text.strip())
         winner_points = clean_team_name(cols[4].text.strip())
         loser = clean_team_name(cols[6].text.strip())
-        print(cols[6].text.strip())
         loser_points = clean_team_name(cols[7].text.strip())
         #print(loser_points)
 
         #get rid of the school's rankings
         formatted_winner = re.sub(r'\(\d+\)', '', winner).strip()
+        
         formatted_loser = re.sub(r'\(\d+\)', '', loser).strip()
-        print(formatted_loser)
+        
         #print(formatted_winner)
         #print(formatted_loser)
 
         #used for checking if the teams are both fbs teams
-        if formatted_winner not in fbs_teams or formatted_loser not in fbs_teams:
+        if formatted_winner not in fbs_teams:
+            mismatched_names.add(winner)
             continue
 
+        if formatted_loser not in fbs_teams:
+            mismatched_names.add(loser)
+            continue
         #handle missing or invalid data
         if not formatted_winner or not formatted_loser:
             continue
@@ -88,6 +99,11 @@ def scrape_cfb_results():
             'loss': loser_points
         })
     
+
+    with open('mismatched_names.txt', 'w') as f:
+        for name in sorted(mismatched_names):
+            f.write(name + '\n')
+
     #convert to JSON
     gamejson_output = json.dumps(data, indent=4)
     return gamejson_output
@@ -100,7 +116,6 @@ parsed_results = json.loads(json_results)
 
 
 
-
 gml_path_file = 'football/football.gml'
 G = nx.read_gml(gml_path_file)
 
@@ -109,33 +124,38 @@ G = nx.read_gml(gml_path_file)
 node_dict = []
 edge_dict = []
 conference_dict = {
-    "0": "Atlantic Coast",
-    "1": "Big East",
-    "2": "Big Ten",
-    "3": "Big Twelve",
-    "4": "Conference USA",
-    "5": "Independents",
-    "6": "Mid-America",
-    "7": "Mountain West",
-    "8": "Pacific Ten",
-    "9": "Southeastern",
-    "10": "Sun Belt",
-    "11": "Western Athletic"
+    "ACC": "Atlantic Coast",
+    "Big East": "Big East",
+    "Big Ten": "Big Ten",
+    "Big 12": "Big Twelve",
+    "CUSA": "Conference USA",
+    "IND": "Independents",
+    "MAC": "Mid-America",
+    "MWC": "Mountain West",
+    "PAC-10": "Pacific Ten",
+    "SEC": "Southeastern",
+    "SBC": "Sun Belt",
+    "WAC": "Western Athletic"
 }
 
 #print(conference_dict["0"])
 #extract the nodes
-for node in G.nodes(data=True):
-    
+for node in node_data:
+    team = node["id"]
+    print(team)
     #record = get_team_record(node[0])
     #print(f"tam id: {node[0]}") --- PRINTS TEAM NAME
-    record = get_team_record(node[0])
+    record = get_team_record(team)
+
+    
     #time.sleep(2)
+    
     node_dict.append({
-        "id": node[0],
+        "id": node["id"],
         #"label": node[1],
         #**node[1], #returns value; don't know if i need it
-        "value": conference_dict[str(node[1].get("value"))],
+        "value": node["value"],
+    
         "wins": record["wins"],
         "losses": record["losses"]
 
@@ -170,7 +190,7 @@ output_json = {
 
 #print(output)
 
-with open('2000seasonWithWins', 'w') as json_file:
+with open('2000seasonScrapedNodes.json', 'w') as json_file:
     json.dump(output_json, json_file, indent=4)
 
 

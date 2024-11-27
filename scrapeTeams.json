@@ -1,0 +1,466 @@
+[
+    {
+        "id": "Florida State",
+        "value": "ACC"
+    },
+    {
+        "id": "Clemson",
+        "value": "ACC"
+    },
+    {
+        "id": "Georgia Tech",
+        "value": "ACC"
+    },
+    {
+        "id": "Virginia",
+        "value": "ACC"
+    },
+    {
+        "id": "North Carolina State",
+        "value": "ACC"
+    },
+    {
+        "id": "North Carolina",
+        "value": "ACC"
+    },
+    {
+        "id": "Maryland",
+        "value": "ACC"
+    },
+    {
+        "id": "Wake Forest",
+        "value": "ACC"
+    },
+    {
+        "id": "Duke",
+        "value": "ACC"
+    },
+    {
+        "id": "Nebraska",
+        "value": "Big 12"
+    },
+    {
+        "id": "Kansas State",
+        "value": "Big 12"
+    },
+    {
+        "id": "Iowa State",
+        "value": "Big 12"
+    },
+    {
+        "id": "Colorado",
+        "value": "Big 12"
+    },
+    {
+        "id": "Kansas",
+        "value": "Big 12"
+    },
+    {
+        "id": "Missouri",
+        "value": "Big 12"
+    },
+    {
+        "id": "Oklahoma",
+        "value": "Big 12"
+    },
+    {
+        "id": "Texas",
+        "value": "Big 12"
+    },
+    {
+        "id": "Texas A&M",
+        "value": "Big 12"
+    },
+    {
+        "id": "Texas Tech",
+        "value": "Big 12"
+    },
+    {
+        "id": "Oklahoma State",
+        "value": "Big 12"
+    },
+    {
+        "id": "Baylor",
+        "value": "Big 12"
+    },
+    {
+        "id": "Miami (FL)",
+        "value": "Big East"
+    },
+    {
+        "id": "Virginia Tech",
+        "value": "Big East"
+    },
+    {
+        "id": "Pitt",
+        "value": "Big East"
+    },
+    {
+        "id": "Syracuse",
+        "value": "Big East"
+    },
+    {
+        "id": "Boston College",
+        "value": "Big East"
+    },
+    {
+        "id": "West Virginia",
+        "value": "Big East"
+    },
+    {
+        "id": "Temple",
+        "value": "Big East"
+    },
+    {
+        "id": "Rutgers",
+        "value": "Big East"
+    },
+    {
+        "id": "Michigan",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Northwestern",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Purdue",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Ohio State",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Wisconsin",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Minnesota",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Penn State",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Iowa",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Illinois",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Michigan State",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Indiana",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Boise State",
+        "value": "Big West"
+    },
+    {
+        "id": "Utah State",
+        "value": "Big West"
+    },
+    {
+        "id": "Idaho",
+        "value": "Big West"
+    },
+    {
+        "id": "New Mexico State",
+        "value": "Big West"
+    },
+    {
+        "id": "North Texas",
+        "value": "Big West"
+    },
+    {
+        "id": "Arkansas State",
+        "value": "Big West"
+    },
+    {
+        "id": "Louisville",
+        "value": "CUSA"
+    },
+    {
+        "id": "East Carolina",
+        "value": "CUSA"
+    },
+    {
+        "id": "Cincinnati",
+        "value": "CUSA"
+    },
+    {
+        "id": "Southern Mississippi",
+        "value": "CUSA"
+    },
+    {
+        "id": "UAB",
+        "value": "CUSA"
+    },
+    {
+        "id": "Tulane",
+        "value": "CUSA"
+    },
+    {
+        "id": "Memphis",
+        "value": "CUSA"
+    },
+    {
+        "id": "Houston",
+        "value": "CUSA"
+    },
+    {
+        "id": "Army",
+        "value": "CUSA"
+    },
+    {
+        "id": "Notre Dame",
+        "value": "Ind"
+    },
+    {
+        "id": "South Florida",
+        "value": "Ind"
+    },
+    {
+        "id": "UCF",
+        "value": "Ind"
+    },
+    {
+        "id": "Middle Tennessee State",
+        "value": "Ind"
+    },
+    {
+        "id": "Connecticut",
+        "value": "Ind"
+    },
+    {
+        "id": "Louisiana Tech",
+        "value": "Ind"
+    },
+    {
+        "id": "Louisiana",
+        "value": "Ind"
+    },
+    {
+        "id": "Louisiana-Monroe",
+        "value": "Ind"
+    },
+    {
+        "id": "Navy",
+        "value": "Ind"
+    },
+    {
+        "id": "Marshall",
+        "value": "MAC"
+    },
+    {
+        "id": "Ohio",
+        "value": "MAC"
+    },
+    {
+        "id": "Akron",
+        "value": "MAC"
+    },
+    {
+        "id": "Miami (OH)",
+        "value": "MAC"
+    },
+    {
+        "id": "Bowling Green",
+        "value": "MAC"
+    },
+    {
+        "id": "Buffalo",
+        "value": "MAC"
+    },
+    {
+        "id": "Kent State",
+        "value": "MAC"
+    },
+    {
+        "id": "Western Michigan",
+        "value": "MAC"
+    },
+    {
+        "id": "Toledo",
+        "value": "MAC"
+    },
+    {
+        "id": "Northern Illinois",
+        "value": "MAC"
+    },
+    {
+        "id": "Ball State",
+        "value": "MAC"
+    },
+    {
+        "id": "Eastern Michigan",
+        "value": "MAC"
+    },
+    {
+        "id": "Central Michigan",
+        "value": "MAC"
+    },
+    {
+        "id": "Colorado State",
+        "value": "MWC"
+    },
+    {
+        "id": "Air Force",
+        "value": "MWC"
+    },
+    {
+        "id": "Nevada-Las Vegas",
+        "value": "MWC"
+    },
+    {
+        "id": "BYU",
+        "value": "MWC"
+    },
+    {
+        "id": "New Mexico",
+        "value": "MWC"
+    },
+    {
+        "id": "Utah",
+        "value": "MWC"
+    },
+    {
+        "id": "San Diego State",
+        "value": "MWC"
+    },
+    {
+        "id": "Wyoming",
+        "value": "MWC"
+    },
+    {
+        "id": "Oregon State",
+        "value": "Pac-10"
+    },
+    {
+        "id": "Washington",
+        "value": "Pac-10"
+    },
+    {
+        "id": "Oregon",
+        "value": "Pac-10"
+    },
+    {
+        "id": "Stanford",
+        "value": "Pac-10"
+    },
+    {
+        "id": "Arizona State",
+        "value": "Pac-10"
+    },
+    {
+        "id": "UCLA",
+        "value": "Pac-10"
+    },
+    {
+        "id": "Arizona",
+        "value": "Pac-10"
+    },
+    {
+        "id": "USC",
+        "value": "Pac-10"
+    },
+    {
+        "id": "Washington State",
+        "value": "Pac-10"
+    },
+    {
+        "id": "California",
+        "value": "Pac-10"
+    },
+    {
+        "id": "Florida",
+        "value": "SEC"
+    },
+    {
+        "id": "Georgia",
+        "value": "SEC"
+    },
+    {
+        "id": "South Carolina",
+        "value": "SEC"
+    },
+    {
+        "id": "Tennessee",
+        "value": "SEC"
+    },
+    {
+        "id": "Vanderbilt",
+        "value": "SEC"
+    },
+    {
+        "id": "Kentucky",
+        "value": "SEC"
+    },
+    {
+        "id": "Auburn",
+        "value": "SEC"
+    },
+    {
+        "id": "LSU",
+        "value": "SEC"
+    },
+    {
+        "id": "Mississippi State",
+        "value": "SEC"
+    },
+    {
+        "id": "Ole Miss",
+        "value": "SEC"
+    },
+    {
+        "id": "Arkansas",
+        "value": "SEC"
+    },
+    {
+        "id": "Alabama",
+        "value": "SEC"
+    },
+    {
+        "id": "Texas Christian",
+        "value": "WAC"
+    },
+    {
+        "id": "UTEP",
+        "value": "WAC"
+    },
+    {
+        "id": "Fresno State",
+        "value": "WAC"
+    },
+    {
+        "id": "San Jose State",
+        "value": "WAC"
+    },
+    {
+        "id": "Tulsa",
+        "value": "WAC"
+    },
+    {
+        "id": "Rice",
+        "value": "WAC"
+    },
+    {
+        "id": "Hawaii",
+        "value": "WAC"
+    },
+    {
+        "id": "SMU",
+        "value": "WAC"
+    },
+    {
+        "id": "Nevada",
+        "value": "WAC"
+    }
+]
