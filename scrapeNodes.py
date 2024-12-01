@@ -15,7 +15,7 @@ def conference_removal(name):
 
 
 def scrape_nodes():
-    url = "https://www.sports-reference.com/cfb/years/2000-standings.html"
+    url = "https://www.sports-reference.com/cfb/years/2010-standings.html"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 

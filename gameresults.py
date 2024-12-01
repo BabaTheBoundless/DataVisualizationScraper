@@ -65,7 +65,7 @@ def clean_team_name(team_name):
    #     team_name = "BowlingGreenState"
     
 def scrape_cfb_results():
-    url = "https://www.sports-reference.com/cfb/years/2000-schedule.html"
+    url = "https://www.sports-reference.com/cfb/years/2010-schedule.html"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -213,7 +213,7 @@ output_json = {
 
 #print(output)
 
-with open('2000seasonScrapedNodes.json', 'w') as json_file:
+with open('2010seasonScrapedNodes.json', 'w') as json_file:
     json.dump(output_json, json_file, indent=4)
 
 

@@ -4,7 +4,35 @@
         "value": "ACC"
     },
     {
+        "id": "Maryland",
+        "value": "ACC"
+    },
+    {
+        "id": "North Carolina State",
+        "value": "ACC"
+    },
+    {
+        "id": "Boston College",
+        "value": "ACC"
+    },
+    {
         "id": "Clemson",
+        "value": "ACC"
+    },
+    {
+        "id": "Wake Forest",
+        "value": "ACC"
+    },
+    {
+        "id": "Virginia Tech",
+        "value": "ACC"
+    },
+    {
+        "id": "Miami (FL)",
+        "value": "ACC"
+    },
+    {
+        "id": "North Carolina",
         "value": "ACC"
     },
     {
@@ -16,24 +44,12 @@
         "value": "ACC"
     },
     {
-        "id": "North Carolina State",
-        "value": "ACC"
-    },
-    {
-        "id": "North Carolina",
-        "value": "ACC"
-    },
-    {
-        "id": "Maryland",
-        "value": "ACC"
-    },
-    {
-        "id": "Wake Forest",
-        "value": "ACC"
-    },
-    {
         "id": "Duke",
         "value": "ACC"
+    },
+    {
+        "id": "Missouri",
+        "value": "Big 12"
     },
     {
         "id": "Nebraska",
@@ -56,23 +72,7 @@
         "value": "Big 12"
     },
     {
-        "id": "Missouri",
-        "value": "Big 12"
-    },
-    {
         "id": "Oklahoma",
-        "value": "Big 12"
-    },
-    {
-        "id": "Texas",
-        "value": "Big 12"
-    },
-    {
-        "id": "Texas A&M",
-        "value": "Big 12"
-    },
-    {
-        "id": "Texas Tech",
         "value": "Big 12"
     },
     {
@@ -80,15 +80,27 @@
         "value": "Big 12"
     },
     {
+        "id": "Texas A&M",
+        "value": "Big 12"
+    },
+    {
         "id": "Baylor",
         "value": "Big 12"
     },
     {
-        "id": "Miami (FL)",
+        "id": "Texas Tech",
+        "value": "Big 12"
+    },
+    {
+        "id": "Texas",
+        "value": "Big 12"
+    },
+    {
+        "id": "West Virginia",
         "value": "Big East"
     },
     {
-        "id": "Virginia Tech",
+        "id": "Connecticut",
         "value": "Big East"
     },
     {
@@ -100,20 +112,44 @@
         "value": "Big East"
     },
     {
-        "id": "Boston College",
+        "id": "South Florida",
         "value": "Big East"
     },
     {
-        "id": "West Virginia",
+        "id": "Louisville",
         "value": "Big East"
     },
     {
-        "id": "Temple",
+        "id": "Cincinnati",
         "value": "Big East"
     },
     {
         "id": "Rutgers",
         "value": "Big East"
+    },
+    {
+        "id": "Ohio State",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Michigan State",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Wisconsin",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Iowa",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Illinois",
+        "value": "Big Ten"
+    },
+    {
+        "id": "Penn State",
+        "value": "Big Ten"
     },
     {
         "id": "Michigan",
@@ -128,31 +164,7 @@
         "value": "Big Ten"
     },
     {
-        "id": "Ohio State",
-        "value": "Big Ten"
-    },
-    {
-        "id": "Wisconsin",
-        "value": "Big Ten"
-    },
-    {
         "id": "Minnesota",
-        "value": "Big Ten"
-    },
-    {
-        "id": "Penn State",
-        "value": "Big Ten"
-    },
-    {
-        "id": "Iowa",
-        "value": "Big Ten"
-    },
-    {
-        "id": "Illinois",
-        "value": "Big Ten"
-    },
-    {
-        "id": "Michigan State",
         "value": "Big Ten"
     },
     {
@@ -160,39 +172,7 @@
         "value": "Big Ten"
     },
     {
-        "id": "Boise State",
-        "value": "Big West"
-    },
-    {
-        "id": "Utah State",
-        "value": "Big West"
-    },
-    {
-        "id": "Idaho",
-        "value": "Big West"
-    },
-    {
-        "id": "New Mexico State",
-        "value": "Big West"
-    },
-    {
-        "id": "North Texas",
-        "value": "Big West"
-    },
-    {
-        "id": "Arkansas State",
-        "value": "Big West"
-    },
-    {
-        "id": "Louisville",
-        "value": "CUSA"
-    },
-    {
-        "id": "East Carolina",
-        "value": "CUSA"
-    },
-    {
-        "id": "Cincinnati",
+        "id": "UCF",
         "value": "CUSA"
     },
     {
@@ -200,11 +180,15 @@
         "value": "CUSA"
     },
     {
-        "id": "UAB",
+        "id": "East Carolina",
         "value": "CUSA"
     },
     {
-        "id": "Tulane",
+        "id": "Marshall",
+        "value": "CUSA"
+    },
+    {
+        "id": "UAB",
         "value": "CUSA"
     },
     {
@@ -212,51 +196,43 @@
         "value": "CUSA"
     },
     {
+        "id": "Tulsa",
+        "value": "CUSA"
+    },
+    {
+        "id": "SMU",
+        "value": "CUSA"
+    },
+    {
         "id": "Houston",
         "value": "CUSA"
     },
     {
-        "id": "Army",
+        "id": "UTEP",
         "value": "CUSA"
     },
     {
-        "id": "Notre Dame",
-        "value": "Ind"
+        "id": "Rice",
+        "value": "CUSA"
     },
     {
-        "id": "South Florida",
-        "value": "Ind"
-    },
-    {
-        "id": "UCF",
-        "value": "Ind"
-    },
-    {
-        "id": "Middle Tennessee State",
-        "value": "Ind"
-    },
-    {
-        "id": "Connecticut",
-        "value": "Ind"
-    },
-    {
-        "id": "Louisiana Tech",
-        "value": "Ind"
-    },
-    {
-        "id": "Louisiana",
-        "value": "Ind"
-    },
-    {
-        "id": "Louisiana-Monroe",
-        "value": "Ind"
+        "id": "Tulane",
+        "value": "CUSA"
     },
     {
         "id": "Navy",
         "value": "Ind"
     },
     {
-        "id": "Marshall",
+        "id": "Notre Dame",
+        "value": "Ind"
+    },
+    {
+        "id": "Army",
+        "value": "Ind"
+    },
+    {
+        "id": "Miami (OH)",
         "value": "MAC"
     },
     {
@@ -264,11 +240,11 @@
         "value": "MAC"
     },
     {
-        "id": "Akron",
+        "id": "Temple",
         "value": "MAC"
     },
     {
-        "id": "Miami (OH)",
+        "id": "Kent State",
         "value": "MAC"
     },
     {
@@ -280,15 +256,7 @@
         "value": "MAC"
     },
     {
-        "id": "Kent State",
-        "value": "MAC"
-    },
-    {
-        "id": "Western Michigan",
-        "value": "MAC"
-    },
-    {
-        "id": "Toledo",
+        "id": "Akron",
         "value": "MAC"
     },
     {
@@ -296,11 +264,15 @@
         "value": "MAC"
     },
     {
-        "id": "Ball State",
+        "id": "Toledo",
         "value": "MAC"
     },
     {
-        "id": "Eastern Michigan",
+        "id": "Western Michigan",
+        "value": "MAC"
+    },
+    {
+        "id": "Ball State",
         "value": "MAC"
     },
     {
@@ -308,23 +280,11 @@
         "value": "MAC"
     },
     {
-        "id": "Colorado State",
-        "value": "MWC"
+        "id": "Eastern Michigan",
+        "value": "MAC"
     },
     {
-        "id": "Air Force",
-        "value": "MWC"
-    },
-    {
-        "id": "Nevada-Las Vegas",
-        "value": "MWC"
-    },
-    {
-        "id": "BYU",
-        "value": "MWC"
-    },
-    {
-        "id": "New Mexico",
+        "id": "Texas Christian",
         "value": "MWC"
     },
     {
@@ -332,7 +292,23 @@
         "value": "MWC"
     },
     {
+        "id": "Air Force",
+        "value": "MWC"
+    },
+    {
         "id": "San Diego State",
+        "value": "MWC"
+    },
+    {
+        "id": "BYU",
+        "value": "MWC"
+    },
+    {
+        "id": "Colorado State",
+        "value": "MWC"
+    },
+    {
+        "id": "Nevada-Las Vegas",
         "value": "MWC"
     },
     {
@@ -340,12 +316,8 @@
         "value": "MWC"
     },
     {
-        "id": "Oregon State",
-        "value": "Pac-10"
-    },
-    {
-        "id": "Washington",
-        "value": "Pac-10"
+        "id": "New Mexico",
+        "value": "MWC"
     },
     {
         "id": "Oregon",
@@ -356,11 +328,11 @@
         "value": "Pac-10"
     },
     {
-        "id": "Arizona State",
+        "id": "USC",
         "value": "Pac-10"
     },
     {
-        "id": "UCLA",
+        "id": "Washington",
         "value": "Pac-10"
     },
     {
@@ -368,7 +340,19 @@
         "value": "Pac-10"
     },
     {
-        "id": "USC",
+        "id": "Arizona State",
+        "value": "Pac-10"
+    },
+    {
+        "id": "Oregon State",
+        "value": "Pac-10"
+    },
+    {
+        "id": "California",
+        "value": "Pac-10"
+    },
+    {
+        "id": "UCLA",
         "value": "Pac-10"
     },
     {
@@ -376,8 +360,8 @@
         "value": "Pac-10"
     },
     {
-        "id": "California",
-        "value": "Pac-10"
+        "id": "South Carolina",
+        "value": "SEC"
     },
     {
         "id": "Florida",
@@ -388,19 +372,15 @@
         "value": "SEC"
     },
     {
-        "id": "South Carolina",
-        "value": "SEC"
-    },
-    {
         "id": "Tennessee",
         "value": "SEC"
     },
     {
-        "id": "Vanderbilt",
+        "id": "Kentucky",
         "value": "SEC"
     },
     {
-        "id": "Kentucky",
+        "id": "Vanderbilt",
         "value": "SEC"
     },
     {
@@ -412,14 +392,6 @@
         "value": "SEC"
     },
     {
-        "id": "Mississippi State",
-        "value": "SEC"
-    },
-    {
-        "id": "Ole Miss",
-        "value": "SEC"
-    },
-    {
         "id": "Arkansas",
         "value": "SEC"
     },
@@ -428,27 +400,55 @@
         "value": "SEC"
     },
     {
-        "id": "Texas Christian",
+        "id": "Mississippi State",
+        "value": "SEC"
+    },
+    {
+        "id": "Ole Miss",
+        "value": "SEC"
+    },
+    {
+        "id": "Troy",
+        "value": "Sun Belt"
+    },
+    {
+        "id": "Florida International",
+        "value": "Sun Belt"
+    },
+    {
+        "id": "Middle Tennessee State",
+        "value": "Sun Belt"
+    },
+    {
+        "id": "Louisiana-Monroe",
+        "value": "Sun Belt"
+    },
+    {
+        "id": "Arkansas State",
+        "value": "Sun Belt"
+    },
+    {
+        "id": "Florida Atlantic",
+        "value": "Sun Belt"
+    },
+    {
+        "id": "Louisiana",
+        "value": "Sun Belt"
+    },
+    {
+        "id": "North Texas",
+        "value": "Sun Belt"
+    },
+    {
+        "id": "Western Kentucky",
+        "value": "Sun Belt"
+    },
+    {
+        "id": "Nevada",
         "value": "WAC"
     },
     {
-        "id": "UTEP",
-        "value": "WAC"
-    },
-    {
-        "id": "Fresno State",
-        "value": "WAC"
-    },
-    {
-        "id": "San Jose State",
-        "value": "WAC"
-    },
-    {
-        "id": "Tulsa",
-        "value": "WAC"
-    },
-    {
-        "id": "Rice",
+        "id": "Boise State",
         "value": "WAC"
     },
     {
@@ -456,11 +456,27 @@
         "value": "WAC"
     },
     {
-        "id": "SMU",
+        "id": "Fresno State",
         "value": "WAC"
     },
     {
-        "id": "Nevada",
+        "id": "Louisiana Tech",
+        "value": "WAC"
+    },
+    {
+        "id": "Idaho",
+        "value": "WAC"
+    },
+    {
+        "id": "Utah State",
+        "value": "WAC"
+    },
+    {
+        "id": "New Mexico State",
+        "value": "WAC"
+    },
+    {
+        "id": "San Jose State",
         "value": "WAC"
     }
 ]

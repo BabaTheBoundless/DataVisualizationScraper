@@ -43,7 +43,7 @@ def get_team_record(team_name):
 
     
     print(team_name)
-    url = f"https://www.sports-reference.com/cfb/schools/{team_name}/2000-schedule.html"
+    url = f"https://www.sports-reference.com/cfb/schools/{team_name}/2010-schedule.html"
 
     response = requests.get(url)
     if response.status_code != 200:
