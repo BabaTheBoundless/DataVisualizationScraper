@@ -1,0 +1,30 @@
+import json
+
+json_wins2000 = 'conference_wins2000.json'
+json_teams2000 = 'conference_teams2000'
+
+with open(json_wins2000, 'r') as file, open(json_teams2000, 'r') as file2:
+    wins_2000 = json.load(file)
+
+json_wins2005 = 'conference_wins2005.json'
+json_teams2005 = 'conference_teams2005'
+
+with open(json_wins2005, 'r') as file, open(json_teams2005, 'r') as file2:
+    wins_2005 = json.load(file)
+
+json_wins2010= 'conference_wins2010.json'
+json_teams2005 = 'conference_teams2010'
+
+with open(json_wins2010, 'r') as file, open(json_wins2010, 'r') as file2:
+    wins_2010 = json.load(file)
+
+for conf in wins_2010:
+
+
+
+
+with open('averagewins2000-2010.json', 'w') as json_file:
+    json.dump(wins_dict, json_file, indent=4)
+
+
+  

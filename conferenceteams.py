@@ -40,20 +40,25 @@ team_dict = {
     "WAC": 0
 }
 
+
+
 for node in json_2005["nodes"]:
     
     wins = node["wins"]
+    
     conference = node["value"]
 
-    wins_dict[conference] += wins
+    if conference:
+        team_dict[conference] += 1
 
-    print(f"This is the conference name: {conference}")
-    print(f" {node["id"]} won {wins} games")
-    print(wins_dict)
-
+        print(f"This is the conference name: {conference}")
+        print(f"TEAM DICTIONARY: {team_dict[conference]}")
+        print(team_dict)
+    else:
+        print("NOT ADDED UH OH")
     
  
-with open('conference_wins2010.json', 'w') as json_file:
-    json.dump(wins_dict, json_file, indent=4)
+with open('conference_teams2010.json', 'w') as json_file:
+    json.dump(team_dict, json_file, indent=4)
 
 print("Conference wins have been saved to conference_teams2005.json.")
